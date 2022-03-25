@@ -1,6 +1,6 @@
 {
    "logo": "static/imgs/de_logo.svg",
-   "title": "Digital Enabler Suite",
+   "title": "Digital Enabler",
    "subtitle": "message.labels.main-subtitle",
    "bgImage": "static/imgs/background.jpg",
    "poweredByImage": "static/imgs/fiware-logo.png",
