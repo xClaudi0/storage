@@ -1,0 +1,7 @@
+{
+    "loggin": {
+        "url": "//localhost:8080/auth",
+        "clientId": "test-token",
+        "onLoad": "login-required"
+    }
+}
