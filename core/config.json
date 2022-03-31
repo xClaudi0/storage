@@ -166,8 +166,8 @@
          "@digital-enabler/footer": "https://raw.githubusercontent.com/robraccu/storage/main/core/common/footer-config.json"
       },
       "tenants": {
-         "@digital-enabler/dme": "https://raw.githubusercontent.com/robraccu/storage/main/myrealm/dme-config.json",
-         "@digital-enabler/dema": "http://.../dema-config.json"
+         "dme": "https://raw.githubusercontent.com/robraccu/storage/main/myrealm/dme-config.json",
+         "dema": "https://raw.githubusercontent.com/robraccu/storage/main/myrealm/dme/dema-config.json"
       }
    }
 }

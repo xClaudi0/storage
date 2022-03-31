@@ -1,0 +1,13 @@
+{
+   "title": "My Realm",
+   "configs": {
+      "dme": {
+         "@digital-enabler/mashups-list": "mashups-list-config.json",
+         "@digital-enabler/editor": "editor-config.json"
+      },
+      "dema": {
+         "@digital-enabler/cards-list": "cards-list-config.json",
+         "@digital-enabler/tenants-list": "tenants-list-config.json"
+      }
+   }
+}
