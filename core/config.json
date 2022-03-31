@@ -161,9 +161,9 @@
    },
    "configs": {
       "common": {
-         "@digital-enabler/auth": "http://.../auth-config.json",
-         "@digital-enabler/sidebar": "http://.../sidebar-config.json",
-         "@digital-enabler/footer": "http://.../footer.json"
+         "@digital-enabler/auth": "https://raw.githubusercontent.com/robraccu/storage/main/myrealm/dme/auth-config.json",
+         "@digital-enabler/sidebar": "https://raw.githubusercontent.com/robraccu/storage/main/myrealm/dme/sidebar-config.jsonn",
+         "@digital-enabler/footer": "https://raw.githubusercontent.com/robraccu/storage/main/myrealm/dme/footer-config.json"
       },
       "@digital-enabler/dme": "http://.../dme-config.json",
       "@digital-enabler/dema": "http://.../dema-config.json"
