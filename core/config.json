@@ -158,5 +158,14 @@
       "info": "#2196F3",
       "success": "#4CAF50",
       "warning": "#FFC107"
+   },
+   "configs": {
+      "common": {
+         "@digital-enabler/auth": "http://.../auth-config.json",
+         "@digital-enabler/sidebar": "http://.../sidebar-config.json",
+         "@digital-enabler/footer": "http://.../footer.json"
+      },
+      "@digital-enabler/dme": "http://.../dme-config.json",
+      "@digital-enabler/dema": "http://.../dema-config.json"
    }
 }
