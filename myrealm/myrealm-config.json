@@ -1,5 +1,5 @@
 {
-   "title": "My Realm",
+   "realm": "My Realm",
    "configs": {
       "dme": {
          "@digital-enabler/mashups-list": "mashups-list-config.json",
