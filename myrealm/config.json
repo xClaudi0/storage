@@ -1,6 +1,11 @@
 {
    "realm": "My Realm",
    "configs": {
+      "common": {
+         "@digital-enabler/auth": "/core/common/auth-config.json",
+         "@digital-enabler/sidebar": "/core/common/sidebar-config.json",
+         "@digital-enabler/footer": "/core/common/footer-config.json"
+      },
       "dme": {
          "@digital-enabler/mashups-list": "mashups-list-config.json",
          "@digital-enabler/editor": "editor-config.json"
