@@ -1,12 +1,20 @@
 {
    "realm": "My Realm",
+   "palette": {
+      "primary": "#003050",
+      "secondary": "#C8004B",
+      "accent": "#82B1FF",
+      "error": "#F44336",
+      "info": "#2196F3",
+      "success": "#4CAF50",
+      "warning": "#FFC107"
+   },
    "configs": {
-      "common": {
+      "common": {},
+      "dme": {
          "auth": "/core/common/auth-config.json",
          "sidebar": "/core/common/sidebar-config.json",
-         "footer": "/core/common/footer-config.json"
-      },
-      "dme": {
+         "footer": "/core/common/footer-config.json",
          "mashups-list": "mashups-list-config.json",
          "editor": "editor-config.json"
       },
