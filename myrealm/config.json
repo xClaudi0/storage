@@ -10,10 +10,12 @@
       "warning": "#FFC107"
    },
    "configs": {
-      "common": {},
-      "dme": {
+      "common": {
          "auth": "/core/common/auth-config.json",
          "sidebar": "/core/common/sidebar-config.json",
+         "footer": "/core/common/footer-config.json"
+      },
+      "dme": {
          "footer": "/core/common/footer-config.json",
          "mashupsList": "mashups-list-config.json",
          "editor": "editor-config.json"
