@@ -1,5 +1,5 @@
 {
-    "mf": "Auth",
+    "mf": "Auth DME",
     "login": {
         "url": "//localhost:8080/auth",
         "clientId": "test-token",
