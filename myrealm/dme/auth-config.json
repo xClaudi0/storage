@@ -1,12 +1,12 @@
 {
-    "mf": "Auth DME",
+    "mf": "Auth",
     "login": {
         "url": "//localhost:8080/auth",
         "clientId": "test-token",
         "onLoad": "login-required"
     },
     "palette": {
-        "primary": "#003050",
+        "primary": "#005050",
         "secondary": "#C8004B",
         "accent": "#82B1FF",
         "error": "#F44336",
