@@ -1,6 +1,6 @@
 {
   "imports": {
-    "single-spa": "https://ga.system.jspm.io/npm:single-spa@5.9.3/lib/umd/single-spa.min.js",
+    "single-spa": "https://ga.system.jspm.io/npm:single-spa@5.9.0/lib/umd/single-spa.min.js",
     "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
     
     "@mdi/font/css/materialdesignicons.min.css": "https://ga.system.jspm.io/npm:@mdi/font@6.6.96/css/materialdesignicons.min.css",
