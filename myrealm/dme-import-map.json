@@ -2,11 +2,14 @@
   "imports": {
     "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.0/lib/system/single-spa.min.js",
     "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
-    "vue": "https://unpkg.com/vue@2.x",
-    "vue/dist/vue.min.js": "https://ga.system.jspm.io/npm:vue@2.6.14/dist/vue.min.js",
-    "vue/dist/vue.runtime.esm.js": "https://ga.system.jspm.io/npm:vue@2.6.14/dist/vue.runtime.esm.js",
-    "vuetify": "https://unpkg.com/vuetify@2.6.3/dist/vuetify.js",
-    "vuetify/dist/vuetify.min.css": "https://ga.system.jspm.io/npm:vuetify@2.6.3/dist/vuetify.min.css",
+    
+    "@mdi/font/css/materialdesignicons.min.css": "https://ga.system.jspm.io/npm:@mdi/font@6.6.96/css/materialdesignicons.min.css",
+    "roboto-fontface": "https://ga.system.jspm.io/npm:roboto-fontface@0.10.0/css/roboto/roboto-fontface.css",
+    "vue": "https://ga.system.jspm.io/npm:vue@2.6.14/dist/vue.runtime.common.js",
+    "vue-i18n": "https://ga.system.jspm.io/npm:vue-i18n@8.27.1/dist/vue-i18n.common.js",
+    "vue-router": "https://ga.system.jspm.io/npm:vue-router@3.5.3/dist/vue-router.common.js",
+    "vuetify": "https://ga.system.jspm.io/npm:vuetify@2.6.4/dist/vuetify.js",
+    "vuex": "https://ga.system.jspm.io/npm:vuex@3.6.2/dist/vuex.mjs",
     
     "@digital-enabler/root-config": "http://localhost:9000/demf-root-config.js",
     "@digital-enabler/auth": "http://localhost:7777/js/app.js",
