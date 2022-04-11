@@ -10,7 +10,7 @@
     "@digital-enabler/root-config": "http://localhost:9000/demf-root-config.js",
     "@digital-enabler/auth": "http://localhost:7777/js/app.js",
     "@digital-enabler/footer": "https://cdn.jsdelivr.net/npm/@digital-enabler/footer@0.0.7/app.js",
-		"@digital-enabler/sidebar": "https://cdn.jsdelivr.net/npm/@digital-enabler/sidebar@0.0.5/app.js",
+    "@digital-enabler/sidebar": "https://cdn.jsdelivr.net/npm/@digital-enabler/sidebar@0.0.5/app.js",
     "@digital-enabler/mashups-list": "//localhost:9091/js/app.js"
   }
 }
