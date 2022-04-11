@@ -1,0 +1,16 @@
+{
+  "imports": {
+    "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
+    "vue": "https://unpkg.com/vue@2.x",
+    "vue/dist/vue.min.js": "https://ga.system.jspm.io/npm:vue@2.6.14/dist/vue.min.js",
+    "vue/dist/vue.runtime.esm.js": "https://ga.system.jspm.io/npm:vue@2.6.14/dist/vue.runtime.esm.js",
+    "vuetify": "https://unpkg.com/vuetify@2.6.3/dist/vuetify.js",
+    "vuetify/dist/vuetify.min.css": "https://ga.system.jspm.io/npm:vuetify@2.6.3/dist/vuetify.min.css",
+    
+    "@digital-enabler/root-config": "http://localhost:9000/demf-root-config.js",
+    "@digital-enabler/auth": "http://localhost:7777/js/app.js",
+    "@digital-enabler/footer": "https://cdn.jsdelivr.net/npm/@digital-enabler/footer@0.0.7/app.js",
+		"@digital-enabler/sidebar": "https://cdn.jsdelivr.net/npm/@digital-enabler/sidebar@0.0.5/app.js",
+    "@digital-enabler/mashups-list": "//localhost:9091/js/app.js"
+  }
+}
