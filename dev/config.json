@@ -16,6 +16,7 @@
          "footer": "/core/common/footer-config.json"
       },
       "dme": {
+         "auth": "auth-config.json",
          "mashupsList": "mashups-list-config.json",
          "editor": "editor-config.json"
       },
