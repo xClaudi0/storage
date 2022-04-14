@@ -166,8 +166,8 @@
          "footer": "/core/common/footer-config.json"
       },
       "tenants": {
-         "myrealm": "https://raw.githubusercontent.com/robraccu/storage/main/myrealm/myrealm-config.json",
-         "dev": "https://raw.githubusercontent.com/robraccu/storage/main/myrealm/dme/dev-config.json"
+         "myrealm": "https://raw.githubusercontent.com/robraccu/storage/main/myrealm/config.json",
+         "dev": "https://raw.githubusercontent.com/robraccu/storage/main/dev/dme/config.json"
       }
    }
 }
