@@ -1,7 +1,7 @@
 {
     "mf": "Auth",
     "login": {
-        "url": "https://idm.dev-digital-enabler.eng.it/auth",
+        "url": "https://idm.dev-digital-enabler.eng.it/",
         "clientId": "dme-v2-app",
         "onLoad": "login-required"
     }
