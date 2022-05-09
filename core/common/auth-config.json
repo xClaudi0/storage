@@ -1,9 +1,7 @@
 {
     "mf": "Auth",
     "login": {
-        "url": "//localhost:8080/auth",
-        "clientId": "test-token",
-        "onLoad": "login-required"
+        "url": "//idm.dev-digital-enabler.eng.it/auth"
     },
     "palette": {
         "primary": "#003050",
