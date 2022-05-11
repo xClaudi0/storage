@@ -1,8 +1,0 @@
-{
-    "mf": "Auth",
-    "login": {
-        "url": "http://localhost:8083/api/dev/auth/login",
-        "clientId": "dme-v2-app",
-        "onLoad": "login-required"
-    }
-}
