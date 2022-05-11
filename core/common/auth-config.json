@@ -1,7 +1,7 @@
 {
     "mf": "Auth",
     "login": {
-        "url": "//idm.dev-digital-enabler.eng.it/auth"
+        "url": "//localhost:8083/api/dev/auth/login"
     },
     "palette": {
         "primary": "#003050",
