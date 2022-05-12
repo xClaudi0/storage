@@ -1,15 +1,6 @@
 {
     "mf": "Auth",
     "login": {
-        "url": "//localhost:8083/api/dev/auth/login"
-    },
-    "palette": {
-        "primary": "#003050",
-        "secondary": "#C8004B",
-        "accent": "#82B1FF",
-        "error": "#F44336",
-        "info": "#2196F3",
-        "success": "#4CAF50",
-        "warning": "#FFC107"
+        "url": "//localhost:8083/api"
     }
 }
