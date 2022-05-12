@@ -1,6 +1,6 @@
 {
    "mf":"Sidebar",
-   "storage-imgs": "https://storage.digital-enabler.eng.it/imgs",
+   "storage-imgs":"https://storage.digital-enabler.eng.it/imgs",
    "links":[
       {
          "title":"labels.mashups",
