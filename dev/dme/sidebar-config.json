@@ -1,1 +1,21 @@
-
+{
+   "mf":"Sidebar",
+   "storage-imgs": "https://storage.digital-enabler.eng.it/imgs"
+   "links":[
+      {
+         "title":"labels.mashups",
+         "icon":"mdi-file-tree",
+         "link":"/"
+      },
+      {
+         "title":"labels.services",
+         "icon":"mdi-toolbox",
+         "link":"/services"
+      },
+      {
+         "title":"labels.flows",
+         "icon":"mdi-transit-connection-horizontal",
+         "link":"/flows"
+      }
+   ]
+}
