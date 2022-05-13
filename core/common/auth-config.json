@@ -1,6 +1,4 @@
 {
     "mf": "Auth",
-    "login": {
-        "url": "//localhost:8083/api"
-    }
+    "api": "//localhost:8083/api"
 }
