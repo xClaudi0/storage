@@ -1,5 +1,6 @@
 {
    "mf": "Mashups List",
+   "api": "//localhost:8083/api",
    "palette": {
       "primary": "#003050",
       "secondary": "#C8004B",
