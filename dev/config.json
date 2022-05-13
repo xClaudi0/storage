@@ -9,7 +9,6 @@
         "success": "#ea6d07",
         "warning": "#ea6d07"
     },
-   "api": "//localhost:8083/api",
    "configs": {
       "common": {
          "auth": "/core/common/auth-config.json",
