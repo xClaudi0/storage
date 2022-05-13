@@ -16,6 +16,7 @@
          "footer": "/core/common/footer-config.json"
       },
       "dme": {
+         "api": "//localhost:8083/api",
          "auth": "auth-config.json",
          "sidebar": "sidebar-config.json",
          "mashupsList": "mashups-list-config.json",
