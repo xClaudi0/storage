@@ -17,11 +17,8 @@
          "auth": "auth-config.json",
          "sidebar": "sidebar-config.json",
          "mashupsList": "mashups-list-config.json",
-         "editor": "editor-config.json"
-      },
-      "dema": {
-         "@digital-enabler/cards-list": "cards-list-config.json",
-         "@digital-enabler/tenants-list": "tenants-list-config.json"
+         "editor": "editor-config.json",
+         "editor-appbar": "editor-appbar-config.json"
       }
    }
 }
