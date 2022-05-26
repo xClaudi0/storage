@@ -1,0 +1,24 @@
+{
+   "realm": "Dev",
+   "palette": {
+      "primary": "#003050",
+      "secondary": "#C8004B",
+      "accent": "#A0B1BE",
+      "error": "#F44336",
+      "info": "#3d8ecc",
+      "success": "#ea6d07",
+      "warning": "#ea6d07"
+   },
+   "configs": {
+      "common": {
+         "footer": "/common/footer-config.json"
+      },
+      "dme": {
+         "auth": "/dme/auth-config.json",
+         "sidebar": "/dme/sidebar-config.json",
+         "mashupsList": "/dme/mashups-list-config.json",
+         "editor": "/dme/editor-config.json",
+         "editor-appbar": "/dme/editor-appbar-config.json"
+      }
+   }
+}
