@@ -1,22 +1,22 @@
 {
-   "mf":"Sidebar",
+   "mf": "Sidebar",
    "api": "//localhost:8083/api",
-   "storageImgs":"https://storage.digital-enabler.eng.it/imgs",
-   "links":[
+   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
+   "links": [
       {
-         "title":"labels.mashups",
-         "icon":"mdi-file-tree",
-         "link":"/"
+         "title": "labels.mashups",
+         "icon": "mdi-file-tree",
+         "link": "/"
       },
       {
-         "title":"labels.services",
-         "icon":"mdi-toolbox",
-         "link":"/services"
+         "title": "labels.datasources",
+         "icon": "mdi-toolbox",
+         "link": "/datasources"
       },
       {
-         "title":"labels.flows",
-         "icon":"mdi-transit-connection-horizontal",
-         "link":"/flows"
+         "title": "labels.flows",
+         "icon": "mdi-transit-connection-horizontal",
+         "link": "/flows"
       }
    ]
 }
