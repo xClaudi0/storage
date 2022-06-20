@@ -18,9 +18,10 @@
          "sidebar": "/dme/sidebar-config.json",
          "mashupsList": "/dme/mashups-list-config.json",
          "editor": "/dme/editor-config.json",
-         "editor-appbar": "/dme/editor-appbar-config.json",
+         "editorAppbar": "/dme/editor-appbar-config.json",
          "datasourcesList": "/dme/datasources-list-config.json",
-         "flowsList": "/dme/flows-list-config.json"
+         "flowsList": "/dme/flows-list-config.json",
+         "eventHandler": "dme/event-handler-config.json"
       }
    }
 }
