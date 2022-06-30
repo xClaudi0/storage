@@ -6,7 +6,7 @@
       {
          "title": "labels.mashups",
          "icon": "mdi-file-tree",
-         "link": "/"
+         "link": "/mashups"
       },
       {
          "title": "labels.datasources",
