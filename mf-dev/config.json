@@ -23,6 +23,7 @@
          "datasourcesList": "/dme/datasources-list-config.json",
          "datasourceDetails": "/dme/datasource-details-config.json",
          "flowsList": "/dme/flows-list-config.json",
+         "flowsEditor": "/dme/flows-editor-config.json",
          "eventHandler": "/dme/event-handler-config.json"
       }
    }
