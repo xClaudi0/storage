@@ -22,7 +22,7 @@
    ],
    "favorites": 
       { 
-         "enabled": false, 
+         "enabled": true, 
          "uri": "" 
       }
 }
