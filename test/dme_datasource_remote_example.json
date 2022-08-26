@@ -1,0 +1,40 @@
+{
+   "name":"Imported datasource Remote",
+   "description":"Test to import a datasource from file or url.",
+   "owner":"626947594dfa6392f778944e",
+   "source":"",
+   "extId":"",
+   "tenant":"dev",
+   "endpoints":[
+      {
+         "name":"Test endpoint remote",
+         "url":"https://eng.it",
+         "method":"GET",
+         "parameters":
+            {
+               "headers":[{
+                  "key":"hd1",
+                  "default":"hdone",
+                  "required":"true",
+                  "description":"Header description test"
+               }],
+               "query":[{
+                  "key":"qr1",
+                  "default":"qrone",
+                  "required":"false",
+                  "description":"Query description test"
+               }],
+               "path":[{
+                  "key":"pt1",
+                  "default":"ptone",
+                  "required":"true",
+                  "description":"Path description test"
+               }],
+               "body":{
+                  "required":"false"
+               }
+            }
+         
+      }
+   ]
+}
