@@ -15,13 +15,13 @@
                "headers":[{
                   "key":"hd1",
                   "default":"hdone",
-                  "required":"true",
+                  "required":true,
                   "description":"Header description test"
                }],
                "query":[{
                   "key":"qr1",
                   "default":"qrone",
-                  "required":"false",
+                  "required":false,
                   "description":"Query description test"
                }],
                "path":[{
@@ -31,7 +31,7 @@
                   "description":"Path description test"
                }],
                "body":{
-                  "required":"false"
+                  "required":false
                }
             }
          
