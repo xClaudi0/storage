@@ -1,0 +1,102 @@
+[
+    {
+        "img": "//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+        "name": "Dashboard Manager",
+        "link": "//dev.digital-enabler.eng.it/knowage",
+        "prefix": "",
+        "path": "/knowage",
+        "active": true,
+        "id": "manageDashboardTool",
+        "category": "data_visualization"
+    },
+    {
+        "img": "//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+        "name": "Data Manager",
+        "link": "//databases.digitalenabler.eng.it/dme",
+        "prefix": "database.",
+        "path": "",
+        "active": true,
+        "id": "workOnDataTool",
+        "category": "data_processing"
+    },
+    {
+        "img": "//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+        "name": "Data Mashup",
+        "link": "//mashups.digitalenabler.eng.it/dme",
+        "prefix": "mashupui.",
+        "path": "",
+        "active": true,
+        "id": "workOnDataTool",
+        "category": "data_processing"
+    },
+    {
+        "img": "//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+        "name": "Dataflow",
+        "link": "//digitalenabler.eng.it",
+        "prefix": "airflow.",
+        "path": "",
+        "active": true,
+        "id": "browseDataTool",
+        "category": "data_management"
+    },
+    {
+        "img": "//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+        "name": "Storage",
+        "link": "//storage-console.digital-enabler.eng.it/",
+        "prefix": "storage-console.",
+        "path": "",
+        "active": true,
+        "id": "browseDataTool",
+        "category": "tools_developers"
+    },
+    {
+        "img": "//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+        "name": "Device Manager",
+        "link": "//devices.digitalenabler.eng.it",
+        "prefix": "devices.",
+        "path": "",
+        "active": true,
+        "id": "manageDevicesTool",
+        "category": "internet_things"
+    },
+    {
+        "img": "//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+        "name": "Cloudev",
+        "link": "//digitalenabler.eng.it",
+        "prefix": "cloudev.",
+        "path": "",
+        "active": true,
+        "id": "manageDevicesTool",
+        "category": "internet_things"
+    },
+    {
+        "img": "//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+        "name": "Identity Manager",
+        "link": "//cdw-ckan.digitalenabler.eng.it/",
+        "prefix": "idm.",
+        "path": "/auth/realms/[tenant]/account",
+        "active": true,
+        "id": "openDataPortalTool",
+        "category": "data_management"
+    },
+    {
+        "img": "//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+        "name": "AI Studio",
+        "link": "//digitalenabler.eng.it",
+        "prefix": ".",
+        "path": "",
+        "active": true,
+        "id": "manageDevicesTool",
+        "category": "internet_things"
+    },
+    {
+        "img": "//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+        "name": "APIs",
+        "link": "//api.digitalenabler.eng.it",
+        "prefix": "api.",
+        "path": "",
+        "active": true,
+        "id": "deApiTool",
+        "category": "tools_developers"
+    }
+]
