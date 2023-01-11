@@ -41,6 +41,16 @@
     },
     {
         "img": "//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+        "name": "Identity Manager",
+        "link": "//cdw-ckan.digitalenabler.eng.it/",
+        "prefix": "idm.",
+        "path": "/auth/realms/[tenant]/account",
+        "active": true,
+        "id": "openDataPortalTool",
+        "category": "data_management"
+    },
+    {
+        "img": "//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
         "name": "Storage",
         "link": "//storage-console.digital-enabler.eng.it/",
         "prefix": "storage-console.",
@@ -67,17 +77,7 @@
         "path": "",
         "active": true,
         "id": "manageDevicesTool",
-        "category": "internet_things"
-    },
-    {
-        "img": "//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
-        "name": "Identity Manager",
-        "link": "//cdw-ckan.digitalenabler.eng.it/",
-        "prefix": "idm.",
-        "path": "/auth/realms/[tenant]/account",
-        "active": true,
-        "id": "openDataPortalTool",
-        "category": "data_management"
+        "category": "tools_developers"
     },
     {
         "img": "//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
@@ -85,9 +85,9 @@
         "link": "//digitalenabler.eng.it",
         "prefix": ".",
         "path": "",
-        "active": true,
+        "active": false,
         "id": "manageDevicesTool",
-        "category": "internet_things"
+        "category": "tools_developers"
     },
     {
         "img": "//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
