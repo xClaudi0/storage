@@ -1,4 +1,5 @@
 {
     "mf": "Flow Editor",
-    "api": "//localhost:8083/api"
+    "api": "//localhost:8083/api",
+    "triggerProxyUrlLayout": "[protocol_current_url]//dme-proxy.[Tenant][domain_current_url]/mashups/[id_mashup]"
 }
