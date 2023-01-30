@@ -2,7 +2,7 @@
    "mf": "Auth",
    "api": "//localhost:8083/api",
    "keycloak": {
-      "url": "http://localhost:8080/auth",
+      "url": "https://idm.dev-digital-enabler.eng.it/auth",
       "clientId": "dev",
       "enabled": false
    }
