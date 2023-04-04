@@ -1,4 +1,4 @@
 {
    "mf": "Mashups List",
-   "api": "http://rob.test.municity.municipia.eng.it:8083/api"
+   "api": "//localhost:8083/api"
 }
