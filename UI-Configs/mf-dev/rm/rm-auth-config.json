@@ -1,6 +1,6 @@
 {
    "mf":"Auth",
-   "api":"https://rm-api.dev-digital-enabler.eng.it/api",
+   "api":"//localhost:8083/api",
    "keycloak":{
       "url":"https://idm.dev-digital-enabler.eng.it/auth",
       "clientId":"rm-app-public",
