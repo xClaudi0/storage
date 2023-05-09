@@ -4,6 +4,6 @@
    "keycloak":{
       "url":"https://idm.dev-digital-enabler.eng.it/auth",
       "clientId":"rm-app-public",
-      "enabled":true
+      "enabled":false
    }
 }
