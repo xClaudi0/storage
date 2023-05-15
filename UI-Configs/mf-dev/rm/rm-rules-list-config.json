@@ -2,7 +2,7 @@
    "mf": "Rules List",
    "api": "//localhost:3001/api/v1",
    "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
-   "assets" : [
+   "assetsList" : [
       {"device","mdi-devices"},
       {"mashup","mdi-file-tree"},
       {"function","mdi-function"}
