@@ -6,5 +6,10 @@
       {"device":"mdi-devices"},
       {"mashup":"mdi-file-tree"},
       {"function":"mdi-function"}
+   ],
+   "actionsList" : [
+      {"device":"mdi-devices"},
+      {"mashup":"mdi-file-tree"},
+      {"function":"mdi-function"}
    ]
 }
