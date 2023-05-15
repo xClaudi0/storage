@@ -10,6 +10,7 @@
    "actionsList" : [
       {"device":"mdi-devices"},
       {"mashup":"mdi-file-tree"},
-      {"function":"mdi-function"}
+      {"function":"mdi-function"},
+      {"email":"mdi-email"}
    ]
 }
