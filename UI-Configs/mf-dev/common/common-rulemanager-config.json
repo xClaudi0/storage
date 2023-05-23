@@ -1,6 +1,6 @@
 {
    "mf": "RuleManager",
-   "assetsList":[
+   "assets":[
       {
          "type":"device",
          "name":"Device",
@@ -47,7 +47,7 @@
          "icon":"mdi-file"
       }
    ],
-   "actionsList":[
+   "actions":[
      {
          "type":"device",
          "name":"Device",
