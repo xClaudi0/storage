@@ -1,5 +1,5 @@
 {
-   "mf": "RuleManager",
+   "mf":"RuleManager",
    "assets":[
       {
          "type":"device",
@@ -48,7 +48,7 @@
       }
    ],
    "actions":[
-     {
+      {
          "type":"device",
          "name":"Device",
          "icon":"mdi-devices"
@@ -58,14 +58,14 @@
          "name":"E-Mail",
          "icon":"mdi-email"
       },
-      { 
-         "type":"mashup", 
-         "name":"Mashup", 
+      {
+         "type":"mashup",
+         "name":"Mashup",
          "icon":"mdi-file-tree"
       },
-      { 
+      {
          "type":"function",
-         "name":"Function", 
+         "name":"Function",
          "icon":"mdi-function"
       }
    ]
