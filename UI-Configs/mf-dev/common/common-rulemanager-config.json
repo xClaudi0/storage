@@ -57,6 +57,16 @@
          "type":"email",
          "name":"E-Mail",
          "icon":"mdi-email"
+      },
+      { 
+         "type":"mashup", 
+         "name":"Mashup", 
+         "icon":"mdi-file-tree"
+      },
+      { 
+         "type":"function",
+         "name":"Function", 
+         "icon"::"mdi-function"
       }
    ]
 }
