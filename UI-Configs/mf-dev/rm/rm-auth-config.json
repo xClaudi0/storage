@@ -3,7 +3,7 @@
    "api":"//localhost:8083/api",
    "keycloak":{
       "url":"https://idm.dev-digital-enabler.eng.it/auth",
-      "clientId":"rm-app-public",
+      "clientId":"rule-app",
       "enabled":false
    }
 }
