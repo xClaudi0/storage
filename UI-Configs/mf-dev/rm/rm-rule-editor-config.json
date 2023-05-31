@@ -1,6 +1,6 @@
 {
    "mf": "Rule Editor",
-   "api": "//localhost:3001/api/v1",
+   "api": "//localhost:8085/api/v1",
    "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
    "assetsList" : [
       {"device":"mdi-devices"},
