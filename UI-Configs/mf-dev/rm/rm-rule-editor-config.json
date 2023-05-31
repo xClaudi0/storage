@@ -1,16 +1,5 @@
 {
-   "mf": "Rule Editor",
-   "api": "//localhost:8085/api/v1",
-   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
-   "assetsList" : [
-      {"device":"mdi-devices"},
-      {"mashup":"mdi-file-tree"},
-      {"function":"mdi-function"}
-   ],
-   "actionsList" : [
-      {"device":"mdi-devices"},
-      {"mashup":"mdi-file-tree"},
-      {"function":"mdi-function"},
-      {"email":"mdi-email"}
-   ]
+  "mf": "Rule Editor",
+  "api": "//localhost:8085/api/v1",
+  "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
