@@ -15,7 +15,7 @@
       "uri": ""
    },
    "keycloak": {
-      "enabled": false
+      "enabled": true
    },
    "logo": "/rm/RuleManager.svg",
    "miniLogo": "/de-mini.svg",
