@@ -1,6 +1,6 @@
 {
    "mf":"Auth",
-   "api":"//localhost:8083/api",
+   "api":"https://derm-api.dev-digital-enabler.eng.it/api/v1",
    "keycloak":{
       "url":"https://idm.dev-digital-enabler.eng.it/auth",
       "clientId":"rule-app",
