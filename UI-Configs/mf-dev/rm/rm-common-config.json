@@ -12,6 +12,11 @@
          "icon":"mdi-file-tree"
       },
       {
+         "type":"flow",
+         "name":"Flow",
+         "icon":"mdi-file-tree"
+      },
+      {
          "type":"function",
          "name":"Function",
          "icon":"mdi-function"
