@@ -7,13 +7,8 @@
          "icon":"mdi-devices"
       },
       {
-         "type":"mashup",
-         "name":"Mashup",
-         "icon":"mdi-file-tree"
-      },
-      {
          "type":"flow",
-         "name":"Flow",
+         "name":"Mashup Flow",
          "icon":"mdi-file-tree"
       },
       {
