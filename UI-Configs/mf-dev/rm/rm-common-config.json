@@ -67,6 +67,6 @@
          "type":"device",
          "name":"Device",
          "icon":"mdi-devices"
-      },
+      }
    ]
 }
