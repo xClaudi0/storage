@@ -60,7 +60,7 @@
       },
       {
          "type":"alarm",
-         "name":"ThingsBoard Alarm",
+         "name":"TB Alarm",
          "icon":"mdi-alarm"
       },
       {
