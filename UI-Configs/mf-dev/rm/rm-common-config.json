@@ -49,24 +49,24 @@
    ],
    "actions":[
       {
-         "type":"device",
-         "name":"Device",
-         "icon":"mdi-devices"
-      },
-      {
          "type":"email",
          "name":"E-Mail",
          "icon":"mdi-email"
       },
       {
-         "type":"mashup",
-         "name":"Mashup",
-         "icon":"mdi-file-tree"
+         "type":"webhook",
+         "name":"Webhook",
+         "icon":"mdi-webhook"
       },
       {
-         "type":"function",
-         "name":"Function",
-         "icon":"mdi-function"
-      }
+         "type":"alarm",
+         "name":"ThingsBoard Alarm",
+         "icon":"mdi-alarm"
+      },
+      {
+         "type":"device",
+         "name":"Device",
+         "icon":"mdi-devices"
+      },
    ]
 }
