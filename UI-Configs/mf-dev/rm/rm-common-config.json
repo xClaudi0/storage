@@ -59,7 +59,7 @@
          "icon":"mdi-webhook"
       },
       {
-         "type":"alarm",
+         "type":"thingsboard_alarm",
          "name":"TB Alarm",
          "icon":"mdi-alarm"
       },
