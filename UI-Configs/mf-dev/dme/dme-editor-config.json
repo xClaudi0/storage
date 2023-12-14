@@ -1,4 +1,4 @@
 {
-   "mf": "Mashup Editor",
-   "api": "//localhost:8083/api"
+  "mf": "Mashup Editor",
+  "api": "//localhost:8083/api/v3"
 }

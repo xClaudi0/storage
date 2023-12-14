@@ -1,4 +1,4 @@
 {
-    "mf": "Share Form",
-    "api": "//localhost:8083/api"
+  "mf": "Share Form",
+  "api": "//localhost:8083/api/v3"
 }
