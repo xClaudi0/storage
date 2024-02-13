@@ -1,0 +1,9 @@
+{
+  "mf": "Auth",
+  "api": "//localhost:8083/api",
+  "keycloak": {
+    "url": "https://idm.dev-digital-enabler.eng.it/auth",
+    "clientId": "dev",
+    "enabled": false
+  }
+}
