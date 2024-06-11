@@ -10,6 +10,6 @@
     "@digital-enabler/sidebar": "https://cdn.jsdelivr.net/npm/@digital-enabler/sidebar@2.0.9/app.js",
     "@digital-enabler/footer": "https://cdn.jsdelivr.net/npm/@digital-enabler/footer@2.0.3/app.js",
     "@digital-enabler/demf-kpis-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-demf-kpis-list@0.0.1/app.js",
-    "@digital-enabler/kpim-gui": "https://mashupsui.dev.dev-digital-enabler.eng.it/demf-kpim-gui.js"
+    "@digital-enabler/kpim-gui": "https://kpim.dev.dev-digital-enabler.eng.it/demf-kpim-gui.js"
   }
 }
