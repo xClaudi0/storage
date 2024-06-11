@@ -54,7 +54,7 @@
       "eventHandler": "/kpim/kpim-event-handler-config.json",
       "sidebar": "/kpim/kpim-sidebar-config.json",
       "kpisList": "/kpim/kpim-kpis-list-config.json",
-      "mashupsList": "/kpim/kpim-mashups-list-config.json"
+      "kpimEditor": "/kpim/kpim-editor-config.json"
     }
   }
 }
