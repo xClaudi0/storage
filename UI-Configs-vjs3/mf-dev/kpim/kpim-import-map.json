@@ -10,6 +10,7 @@
     "@digital-enabler/sidebar": "https://cdn.jsdelivr.net/npm/@digital-enabler/sidebar@2.0.9/app.js",
     "@digital-enabler/footer": "https://cdn.jsdelivr.net/npm/@digital-enabler/footer@2.0.3/app.js",
     "@digital-enabler/demf-kpis-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-kpis-list@0.1.0/app.js",
+    "@digital-enabler/demf-kpim-editor-definition": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-kpim-editor-definition@0.1.0/app.js",
     "@digital-enabler/kpim-gui": "https://kpim.dev.dev-digital-enabler.eng.it/demf-kpim-gui.js"
   }
 }
