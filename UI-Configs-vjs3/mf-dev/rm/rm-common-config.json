@@ -11,6 +11,16 @@
          "name":"Mashup Flow",
          "icon":"mdi-file-tree"
       },
+       {
+         "type": "ngsi-ld",
+         "name": "NGSI ENTITY",
+         "icon": "mdi-vector-circle"
+       },
+       {
+         "type": "calendar-event",
+         "name": "Google Calendar",
+         "icon": "mdi-calendar-month"
+       },
       {
          "type":"function",
          "name":"Function",
