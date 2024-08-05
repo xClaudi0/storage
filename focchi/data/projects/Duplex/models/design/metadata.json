@@ -1,0 +1,5578 @@
+{
+  "id": "0001",
+  "projectId": "2rk5Srdd14bez5ueCPF6Da",
+  "author": "",
+  "createdAt": "2021-06-24T12:28:06",
+  "schema": "IFC2X3",
+  "creatingApplication": "20190808_0900(x64) - Exporter 19.2.20.24 - Alternate UI 19.2.20.24",
+  "metaObjects": [
+    {
+      "id": "2rk5Srdd14bez5ueCPF6Da",
+      "name": "0001",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "2rk5Srdd14bez5ueCPF6Dc",
+      "name": "Default",
+      "type": "IfcSite",
+      "parent": "2rk5Srdd14bez5ueCPF6Da"
+    },
+    {
+      "id": "2rk5Srdd14bez5ueCPF6Db",
+      "name": "",
+      "type": "IfcBuilding",
+      "parent": "2rk5Srdd14bez5ueCPF6Dc"
+    },
+    {
+      "id": "2rk5Srdd14bez5ueFcmvyn",
+      "name": "0 - Piano Terra",
+      "type": "IfcBuildingStorey",
+      "parent": "2rk5Srdd14bez5ueCPF6Db"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5ncf_",
+      "name": "Facciata continua:Generica - Divisione Verticale 2:135888",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbq6",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140712",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncf_"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbq5",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140715",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncf_"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbq3",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140717",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncf_"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbq1",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140719",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncf_"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbqV",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140721",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncf_"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbqT",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140723",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncf_"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbqR",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140725",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncf_"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5ncsC",
+      "name": "Facciata continua:Generica - Divisione Verticale:136482",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbul",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140929",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncsC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbug",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140932",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncsC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbue",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140934",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncsC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbuc",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140936",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncsC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbua",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140938",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncsC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbuY",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140940",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncsC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbuW",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140942",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncsC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbu_",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140944",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncsC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbuy",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140946",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncsC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbuw",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140948",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncsC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbuu",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140950",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncsC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbus",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140952",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncsC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5ncyj",
+      "name": "Facciata continua:Generica - Divisione Verticale:137091",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbx_",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140880",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncyj"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbxz",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140883",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncyj"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbxx",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140885",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncyj"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbxv",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140887",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncyj"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbxt",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140889",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncyj"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbxr",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140891",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncyj"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbxp",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140893",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncyj"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbxn",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140895",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncyj"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbxF",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140897",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncyj"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nc1o",
+      "name": "Facciata continua:Generica - Divisione Verticale:137436",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbbA",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:139748",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nc1o"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbe_",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:139920",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nc1o"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbew",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:139924",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nc1o"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbes",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:139928",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nc1o"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbeo",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:139932",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nc1o"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbeE",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:139936",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nc1o"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbeA",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:139940",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nc1o"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbe6",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:139944",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nc1o"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbe2",
+      "name": "Pannello sistema:Vetrato:139948",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nc1o"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5ncBb",
+      "name": "Facciata continua:Generica - Divisione Verticale:137803",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbrv",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140759",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncBb"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbrq",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140762",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncBb"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbro",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140764",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncBb"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbrm",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140766",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncBb"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbrE",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140768",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5ncBb"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbaC",
+      "name": "Facciata continua:Generica - Divisione Verticale:139682",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbsV",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140593",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbsQ",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140596",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbsO",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140598",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbsM",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140600",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbsK",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140602",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbsI",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140604",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbsG",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140606",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbtk",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140608",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbti",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140610",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbtg",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140612",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbte",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140614",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbtc",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140616",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbta",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140618",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbtY",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140620",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbtW",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140622",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbt_",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140624",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbty",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140626",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbtw",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140628",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbtu",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140630",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbts",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140632",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbtq",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140634",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbto",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140636",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbtm",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140638",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbtE",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140640",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbtC",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140642",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbtA",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140644",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbt8",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140646",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbt6",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140648",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbt4",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140650",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbt2",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140652",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbt0",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140654",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbtU",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140656",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbtS",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140658",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbtQ",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140660",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbtO",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140662",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbtM",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140664",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbtK",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140666",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbtI",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140668",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbtG",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140670",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbqk",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140672",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbqi",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140674",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbqg",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140676",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbqe",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140678",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "34tN7H7APBHehchh70XNAq",
+      "name": "Pannello sistema:Vetrato:225015",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbqc",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:140680",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2LSla2d2L22wbtxZ4atIRv",
+      "name": "Pannello sistema:Vetrato:229959",
+      "type": "IfcPlate",
+      "parent": "2qnJWw7gPBchh71lr5nbaC"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nb3G",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:141438",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nb0B",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:141477",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbJq",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:142426",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbHc",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:142536",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbMM",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:142648",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbNr",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:142683",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbKB",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:142757",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbKH",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:142783",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbLB",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:142821",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbQ$",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:142865",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbRh",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:142917",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbRV",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:142961",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbOj",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:142979",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbOR",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:143029",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbP$",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:143057",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbP5",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:143083",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbUi",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:143106",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbUr",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:143131",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbUN",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:143161",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbVs",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:143192",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbSD",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:143267",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qnJWw7gPBchh71lr5nbTk",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:143296",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1xce5JqqHFDhhKhKeWvoxo",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:143861",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1xce5JqqHFDhhKhKeWvoqp",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:143924",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1xce5JqqHFDhhKhKeWvorF",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:143944",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1xce5JqqHFDhhKhKeWvorO",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:143967",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1xce5JqqHFDhhKhKeWvoro",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:143989",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1xce5JqqHFDhhKhKeWvosl",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:144040",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1xce5JqqHFDhhKhKeWvot3",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:144068",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1xce5JqqHFDhhKhKeWvot$",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:144120",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2Rb6H6BjfARfpdAoQe7Xcv",
+      "name": "Pavimento:Focchi_Floor_PT:154917",
+      "type": "IfcSlab",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsLFTs",
+      "name": "Facciata continua:divisori interni:159870",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsLFTt",
+      "name": "Pannello sistema:Vetrato:159871",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsLFTs"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsLFUB",
+      "name": "Pannello sistema:Vetrato:159875",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsLFTs"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsLFUD",
+      "name": "Pannello sistema:Vetrato:159877",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsLFTs"
+    },
+    {
+      "id": "1PxSLVuZr0rRq5luQCpj$p",
+      "name": "Pannello sistema:Vetrato:227678",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsLFTs"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsLFC6",
+      "name": "Facciata continua:divisori interni:160782",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsLFC7",
+      "name": "Pannello sistema:Vetrato:160783",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsLFC6"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsLFCQ",
+      "name": "Pannello sistema:Vetrato:160786",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsLFC6"
+    },
+    {
+      "id": "1PxSLVuZr0rRq5luQCpjzr",
+      "name": "Pannello sistema:Vetrato:227800",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsLFC6"
+    },
+    {
+      "id": "1PxSLVuZr0rRq5luQCpjzt",
+      "name": "Pannello sistema:Vetrato:227802",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsLFC6"
+    },
+    {
+      "id": "1PxSLVuZr0rRq5luQCpjzn",
+      "name": "Pannello sistema:Vetrato:227804",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsLFC6"
+    },
+    {
+      "id": "1PxSLVuZr0rRq5luQCpjzp",
+      "name": "Pannello sistema:Vetrato:227806",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsLFC6"
+    },
+    {
+      "id": "1PxSLVuZr0rRq5luQCpjzD",
+      "name": "Pannello sistema:Vetrato:227808",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsLFC6"
+    },
+    {
+      "id": "1PxSLVuZr0rRq5luQCpjzF",
+      "name": "Pannello sistema:Vetrato:227810",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsLFC6"
+    },
+    {
+      "id": "1PxSLVuZr0rRq5luQCpjz9",
+      "name": "Pannello sistema:Vetrato:227812",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsLFC6"
+    },
+    {
+      "id": "1PxSLVuZr0rRq5luQCpjzB",
+      "name": "Pannello sistema:Vetrato:227814",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsLFC6"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsLFiZ",
+      "name": "Facciata continua:divisori interni:162859",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsLFia",
+      "name": "Pannello sistema:Vetrato:162860",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsLFiZ"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsLFiu",
+      "name": "Pannello sistema:Vetrato:162864",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsLFiZ"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsLFiw",
+      "name": "Pannello sistema:Vetrato:162866",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsLFiZ"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsLFjs",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:162942",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL0KC",
+      "name": "Facciata continua:divisori interni:164356",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL0KD",
+      "name": "Pannello sistema:Vetrato:164357",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL0KC"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL0K1",
+      "name": "Pannello sistema:Vetrato:164361",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL0KC"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL0K3",
+      "name": "Pannello sistema:Vetrato:164363",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL0KC"
+    },
+    {
+      "id": "1PxSLVuZr0rRq5luQCpjpn",
+      "name": "Pannello sistema:Vetrato:227932",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL0KC"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL09B",
+      "name": "Facciata continua:divisori interni:165187",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL09C",
+      "name": "Pannello sistema:Vetrato:165188",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL09B"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL090",
+      "name": "Pannello sistema:Vetrato:165192",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL09B"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL092",
+      "name": "Pannello sistema:Vetrato:165194",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL09B"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL094",
+      "name": "Pannello sistema:Vetrato:165196",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL09B"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL096",
+      "name": "Pannello sistema:Vetrato:165198",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL09B"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6Gyihvum",
+      "name": "Pannello sistema:Vetrato:227940",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL09B"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6Gyihvuo",
+      "name": "Pannello sistema:Vetrato:227942",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL09B"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6Gyihvuy",
+      "name": "Pannello sistema:Vetrato:227944",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL09B"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6Gyihvu_",
+      "name": "Pannello sistema:Vetrato:227946",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL09B"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6Gyihvuu",
+      "name": "Pannello sistema:Vetrato:227948",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL09B"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6Gyihvuw",
+      "name": "Pannello sistema:Vetrato:227950",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL09B"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6Gyihvua",
+      "name": "Pannello sistema:Vetrato:227952",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL09B"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6Gyihvuc",
+      "name": "Pannello sistema:Vetrato:227954",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL09B"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6GyihvuW",
+      "name": "Pannello sistema:Vetrato:227956",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL09B"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL0zs",
+      "name": "Facciata continua:divisori interni:166014",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL0zt",
+      "name": "Pannello sistema:Vetrato:166015",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL0zs"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL0_B",
+      "name": "Pannello sistema:Vetrato:166019",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL0zs"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL0_D",
+      "name": "Pannello sistema:Vetrato:166021",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL0zs"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL0_F",
+      "name": "Pannello sistema:Vetrato:166023",
+      "type": "IfcPlate",
+      "parent": "1R0qia2NvA4Q6GvZUsL0zs"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL0$w",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:166130",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL0vh",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:166243",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL0qe",
+      "name": "Muro di base:Tramezza - 15 cm:166432",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL0pw",
+      "name": "Muro di base:Tramezza - 15 cm:166898",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL0e4",
+      "name": "Muro di base:Tramezza - 15 cm:167180",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1R0qia2NvA4Q6GvZUsL0aK",
+      "name": "Muro di base:Tramezza - 15 cm:167452",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3j1sAmZ2P7SRJ2jjXeKa9u",
+      "name": "Muro di base:Tramezza - 15 cm:168609",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3j1sAmZ2P7SRJ2jjXeKaUC",
+      "name": "Muro di base:Tramezza - 0.40:169813",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3j1sAmZ2P7SRJ2jjXeKaSn",
+      "name": "Muro di base:Tramezza - 0.40:169960",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0f9NU_lhz0BOfTqcWszlhw",
+      "name": "hag_futu_1020:Default:174168",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0f9NU_lhz0BOfTqcWszlhV",
+      "name": "hag_futu_1020:Default:174205",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0f9NU_lhz0BOfTqcWszlq7",
+      "name": "hag_futu_1020:Default:176037",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0f9NU_lhz0BOfTqcWszlqD",
+      "name": "hag_futu_1020:Default:176047",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0f9NU_lhz0BOfTqcWszlrN",
+      "name": "hag_futu_1020:Default:176117",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0f9NU_lhz0BOfTqcWszlrK",
+      "name": "hag_futu_1020:Default:176118",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0f9NU_lhz0BOfTqcWszlrL",
+      "name": "hag_futu_1020:Default:176119",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0f9NU_lhz0BOfTqcWszkOn",
+      "name": "F0750 - Table, Office, (size as required):F0750 - Table, Office, (size as required) 12\"x 36\":177299",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHum3Q",
+      "name": "F0750 - Table, Office, (size as required):F0750 - Table, Office, (size as required) 12\"x 36\":185106",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHum3n",
+      "name": "F0750 - Table, Office, (size as required):F0750 - Table, Office, (size as required) 12\"x 36\":185145",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHum1W",
+      "name": "F0750 - Table, Office, (size as required):F0750 - Table, Office, (size as required) 12\"x 36\":185256",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHum1X",
+      "name": "F0750 - Table, Office, (size as required):F0750 - Table, Office, (size as required) 12\"x 36\":185257",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHum0Q",
+      "name": "hag_futu_1020:Default:185298",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHum0R",
+      "name": "hag_futu_1020:Default:185299",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHum0S",
+      "name": "hag_futu_1020:Default:185300",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHum0T",
+      "name": "hag_futu_1020:Default:185301",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHum0U",
+      "name": "hag_futu_1020:Default:185302",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHum0V",
+      "name": "hag_futu_1020:Default:185303",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHum0Z",
+      "name": "hag_futu_1020:Default:185323",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHum0a",
+      "name": "hag_futu_1020:Default:185324",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHum0b",
+      "name": "hag_futu_1020:Default:185325",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHum0c",
+      "name": "hag_futu_1020:Default:185326",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHum0d",
+      "name": "hag_futu_1020:Default:185327",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHum0u",
+      "name": "hag_futu_1020:Default:185328",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHumV0",
+      "name": "hag_futu_1020:Default:185352",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHumV1",
+      "name": "hag_futu_1020:Default:185353",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHumV2",
+      "name": "hag_futu_1020:Default:185354",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHumV3",
+      "name": "hag_futu_1020:Default:185355",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHumV4",
+      "name": "hag_futu_1020:Default:185356",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHumV5",
+      "name": "hag_futu_1020:Default:185357",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHumVN",
+      "name": "hag_futu_1020:Default:185375",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHumVe",
+      "name": "hag_futu_1020:Default:185376",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHumVf",
+      "name": "hag_futu_1020:Default:185377",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHumVg",
+      "name": "hag_futu_1020:Default:185378",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHumVh",
+      "name": "hag_futu_1020:Default:185379",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2UP4IEiyDATQtmADSHumVi",
+      "name": "hag_futu_1020:Default:185380",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVJJW",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188269",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVJHU",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188371",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGk0",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188429",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGlU",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188499",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGlP",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188500",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGlO",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188501",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGiF",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188546",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGiE",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188547",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGi9",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188548",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGi8",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188549",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGiB",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188550",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGiA",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188551",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGia",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188585",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGid",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188586",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGic",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188587",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGiX",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188588",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGiW",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188589",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGiZ",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188590",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGim",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188605",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGip",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188606",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGio",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188607",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGjD",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188608",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGjC",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188609",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGjF",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188610",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGjE",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188611",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGj9",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188612",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGj8",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188613",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGjB",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188614",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGjA",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188615",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGj5",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188616",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGjf",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188644",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGje",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188645",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGjh",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188646",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGjg",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188647",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGjb",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188648",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGja",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188649",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGjd",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188650",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGjc",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188651",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGjX",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188652",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGjW",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188653",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGjZ",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188654",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGjY",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188655",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGg0",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188685",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGg3",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188686",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGg2",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188687",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGgT",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188688",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGgS",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188689",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGgV",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188690",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGgU",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188691",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGgP",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188692",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGgO",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188693",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGgR",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188694",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGgQ",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188695",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGgL",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188696",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGh6",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188747",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGh1",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188748",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGht",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188794",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGhs",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188795",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGei",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188833",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGel",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188834",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGez",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188848",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGey",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188849",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGfD",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188864",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGfC",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188865",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGcF",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188930",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGcE",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188931",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGcU",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188947",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGcP",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188948",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGcf",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188964",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGce",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188965",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGcg",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188967",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGcb",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:188968",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGd5",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:189000",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGd4",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:189001",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGd6",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:189003",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0RDxb7wfPCD9z2LXsQVGd1",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:189004",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3LPtNp97v4SRqhFbvSceZn",
+      "name": "hag_futu_1020:Default:189083",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3LPtNp97v4SRqhFbvSceYi",
+      "name": "hag_futu_1020:Default:189126",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3LPtNp97v4SRqhFbvSceYj",
+      "name": "hag_futu_1020:Default:189127",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3LPtNp97v4SRqhFbvSceoE",
+      "name": "Foc_Table Office:F03600 Table, Office:190180",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3LPtNp97v4SRqhFbvScesW",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:190410",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3LPtNp97v4SRqhFbvSce99",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:190499",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3LPtNp97v4SRqhFbvSce8u",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:190546",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3LPtNp97v4SRqhFbvSceBe",
+      "name": "foc_Armadietto_Basso:foc_Armadietto_Basso:190594",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1iV_IfoejF7h9IbO7tVDqB",
+      "name": "foc_Armadietto_Alto:foc_Armadietto_Alto:191510",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1iV_IfoejF7h9IbO7tVC4p",
+      "name": "foc_Armadietto_Alto:foc_Armadietto_Alto:192558",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1iV_IfoejF7h9IbO7tVC5k",
+      "name": "foc_Armadietto_Alto:foc_Armadietto_Alto:192627",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1iV_IfoejF7h9IbO7tVCUZ",
+      "name": "foc_Armadietto_Alto_450:foc_Armadietto_Alto_450:194238",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1iV_IfoejF7h9IbO7tVCV7",
+      "name": "foc_Armadietto_Alto_450:foc_Armadietto_Alto_450:194266",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1iV_IfoejF7h9IbO7tVCVv",
+      "name": "foc_Armadietto_Alto_450:foc_Armadietto_Alto_450:194276",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1iV_IfoejF7h9IbO7tVCOv",
+      "name": "foc_Armadietto_Alto_450:foc_Armadietto_Alto_450:194340",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1iV_IfoejF7h9IbO7tVCPJ",
+      "name": "foc_Armadietto_Alto_450:foc_Armadietto_Alto_450:194382",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1iV_IfoejF7h9IbO7tVCQU",
+      "name": "foc_Armadietto_Alto_450:foc_Armadietto_Alto_450:194435",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1iV_IfoejF7h9IbO7tVCRs",
+      "name": "foc_Armadietto_Alto_450:foc_Armadietto_Alto_450:194539",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1iV_IfoejF7h9IbO7tVCcS",
+      "name": "foc_Armadietto_Alto_450:foc_Armadietto_Alto_450:194689",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3MVBmqUo1E09ueR6B6$41k",
+      "name": "Muro di base:Tramezza - 24 cm:195451",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3MVBmqUo1E09ueR6B6$4SB",
+      "name": "Muro di base:Tramezza - 24 cm:195614",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3MVBmqUo1E09ueR6B6$4U7",
+      "name": "Muro di base:Tramezza - 24 cm:195730",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3MVBmqUo1E09ueR6B6$4N6",
+      "name": "Muro di base:Tramezza - 24 cm:196307",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3MVBmqUo1E09ueR6B6$4Jm",
+      "name": "Muro di base:Tramezza - 24 cm:196581",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3MVBmqUo1E09ueR6B6$RkG",
+      "name": "Muro di base:Tramezza - 24 cm:196741",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3MVBmqUo1E09ueR6B6$RdB",
+      "name": "Muro di base:Tramezza - 11 cm:197342",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3MVBmqUo1E09ueR6B6$R$U",
+      "name": "Muro di base:Tramezza - 15 cm:197835",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3MVBmqUo1E09ueR6B6$Qkr",
+      "name": "Muro di base:Tramezza - 15 cm:200864",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3wAl3bEVr22vPXtTvSqYLM",
+      "name": "Scala gettata in opera:Scala:204683",
+      "type": "IfcStair",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3wAl3bEVr22vPXtTvSqXeP",
+      "name": "Scala gettata in opera:Scala:204683 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "3wAl3bEVr22vPXtTvSqYLM"
+    },
+    {
+      "id": "3wAl3bEVr22vPXtTvSqXkU",
+      "name": "Ringhiera:Rettangolare Semplice:205123",
+      "type": "IfcRailing",
+      "parent": "3wAl3bEVr22vPXtTvSqYLM"
+    },
+    {
+      "id": "3wAl3bEVr22vPXtTvSqXkQ",
+      "name": "Ringhiera:Rettangolare Semplice:205127",
+      "type": "IfcRailing",
+      "parent": "3wAl3bEVr22vPXtTvSqYLM"
+    },
+    {
+      "id": "3wAl3bEVr22vPXtTvSqXjc",
+      "name": "Pavimento:Latero Cementizio -15:205243",
+      "type": "IfcSlab",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2y2OpVfOb9cwGtvthTjRpH",
+      "name": "Porta - 1 Anta:80x210 cm:206366",
+      "type": "IfcDoor",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2y2OpVfOb9cwGtvthTjRnv",
+      "name": "Porta - 1 Anta:80x210 cm:206518",
+      "type": "IfcDoor",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2y2OpVfOb9cwGtvthTjRs4",
+      "name": "Porta - 1 Anta:80x210 cm:206667",
+      "type": "IfcDoor",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2y2OpVfOb9cwGtvthTjR33",
+      "name": "Porta - 1 Anta:90x210 cm:207372",
+      "type": "IfcDoor",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1otZiF5LX7297Ln7dB8fiu",
+      "name": "Porta - 1 Anta:80x210 cm:212346",
+      "type": "IfcDoor",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1otZiF5LX7297Ln7dB8fds",
+      "name": "Porta - 1 Anta:80x210 cm:212916",
+      "type": "IfcDoor",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "18sJ6Qf_1CGA04O35CztW7",
+      "name": "Porta - 1 Anta:90x210 cm:213683",
+      "type": "IfcDoor",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "07ZK1qfEj61AvvGeKrLHwV",
+      "name": "Facciata continua:Generica - Divisione Verticale:214733",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "07ZK1qfEj61AvvGeKrLHwq",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:214758",
+      "type": "IfcPlate",
+      "parent": "07ZK1qfEj61AvvGeKrLHwV"
+    },
+    {
+      "id": "07ZK1qfEj61AvvGeKrLHwx",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:214761",
+      "type": "IfcPlate",
+      "parent": "07ZK1qfEj61AvvGeKrLHwV"
+    },
+    {
+      "id": "07ZK1qfEj61AvvGeKrLHwv",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:214763",
+      "type": "IfcPlate",
+      "parent": "07ZK1qfEj61AvvGeKrLHwV"
+    },
+    {
+      "id": "07ZK1qfEj61AvvGeKrLHw$",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:214765",
+      "type": "IfcPlate",
+      "parent": "07ZK1qfEj61AvvGeKrLHwV"
+    },
+    {
+      "id": "07ZK1qfEj61AvvGeKrLHwz",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:214767",
+      "type": "IfcPlate",
+      "parent": "07ZK1qfEj61AvvGeKrLHwV"
+    },
+    {
+      "id": "07ZK1qfEj61AvvGeKrLHwZ",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:214769",
+      "type": "IfcPlate",
+      "parent": "07ZK1qfEj61AvvGeKrLHwV"
+    },
+    {
+      "id": "07ZK1qfEj61AvvGeKrLHwX",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:214771",
+      "type": "IfcPlate",
+      "parent": "07ZK1qfEj61AvvGeKrLHwV"
+    },
+    {
+      "id": "07ZK1qfEj61AvvGeKrLHwd",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:214773",
+      "type": "IfcPlate",
+      "parent": "07ZK1qfEj61AvvGeKrLHwV"
+    },
+    {
+      "id": "07ZK1qfEj61AvvGeKrLHwb",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:214775",
+      "type": "IfcPlate",
+      "parent": "07ZK1qfEj61AvvGeKrLHwV"
+    },
+    {
+      "id": "07ZK1qfEj61AvvGeKrLHwh",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:214777",
+      "type": "IfcPlate",
+      "parent": "07ZK1qfEj61AvvGeKrLHwV"
+    },
+    {
+      "id": "07ZK1qfEj61AvvGeKrLHwf",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:214779",
+      "type": "IfcPlate",
+      "parent": "07ZK1qfEj61AvvGeKrLHwV"
+    },
+    {
+      "id": "07ZK1qfEj61AvvGeKrLHwl",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:214781",
+      "type": "IfcPlate",
+      "parent": "07ZK1qfEj61AvvGeKrLHwV"
+    },
+    {
+      "id": "07ZK1qfEj61AvvGeKrLHwj",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:214783",
+      "type": "IfcPlate",
+      "parent": "07ZK1qfEj61AvvGeKrLHwV"
+    },
+    {
+      "id": "07ZK1qfEj61AvvGeKrLHzJ",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:214785",
+      "type": "IfcPlate",
+      "parent": "07ZK1qfEj61AvvGeKrLHwV"
+    },
+    {
+      "id": "07ZK1qfEj61AvvGeKrLHJL",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:216199",
+      "type": "IfcPlate",
+      "parent": "07ZK1qfEj61AvvGeKrLHwV"
+    },
+    {
+      "id": "07ZK1qfEj61AvvGeKrLHzH",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:214787",
+      "type": "IfcPlate",
+      "parent": "07ZK1qfEj61AvvGeKrLHwV"
+    },
+    {
+      "id": "07ZK1qfEj61AvvGeKrLHzN",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:214789",
+      "type": "IfcPlate",
+      "parent": "07ZK1qfEj61AvvGeKrLHwV"
+    },
+    {
+      "id": "07ZK1qfEj61AvvGeKrLHzL",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:214791",
+      "type": "IfcPlate",
+      "parent": "07ZK1qfEj61AvvGeKrLHwV"
+    },
+    {
+      "id": "07ZK1qfEj61AvvGeKrLHzR",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:214793",
+      "type": "IfcPlate",
+      "parent": "07ZK1qfEj61AvvGeKrLHwV"
+    },
+    {
+      "id": "2LSla2d2L22wbtxZ4atIRt",
+      "name": "Pannello sistema:Vetrato:229961",
+      "type": "IfcPlate",
+      "parent": "07ZK1qfEj61AvvGeKrLHwV"
+    },
+    {
+      "id": "1PxSLVuZr0rRq5luQCpjog",
+      "name": "Facciata continua:divisori interni:227847",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1PxSLVuZr0rRq5luQCpjob",
+      "name": "Pannello sistema:Vetrato:227848",
+      "type": "IfcPlate",
+      "parent": "1PxSLVuZr0rRq5luQCpjog"
+    },
+    {
+      "id": "1PxSLVuZr0rRq5luQCpjod",
+      "name": "Pannello sistema:Vetrato:227850",
+      "type": "IfcPlate",
+      "parent": "1PxSLVuZr0rRq5luQCpjog"
+    },
+    {
+      "id": "1PxSLVuZr0rRq5luQCpjoX",
+      "name": "Pannello sistema:Vetrato:227852",
+      "type": "IfcPlate",
+      "parent": "1PxSLVuZr0rRq5luQCpjog"
+    },
+    {
+      "id": "1PxSLVuZr0rRq5luQCpjoQ",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:227895",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1PxSLVuZr0rRq5luQCpjp_",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:227923",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6Gyihvxs",
+      "name": "Facciata continua:divisori interni:228002",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6Gyihvxt",
+      "name": "Pannello sistema:Vetrato:228003",
+      "type": "IfcPlate",
+      "parent": "2qdkSOdiP7DeNM6Gyihvxs"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6Gyihvxn",
+      "name": "Pannello sistema:Vetrato:228005",
+      "type": "IfcPlate",
+      "parent": "2qdkSOdiP7DeNM6Gyihvxs"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6Gyihvxp",
+      "name": "Pannello sistema:Vetrato:228007",
+      "type": "IfcPlate",
+      "parent": "2qdkSOdiP7DeNM6Gyihvxs"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6Gyihvxz",
+      "name": "Pannello sistema:Vetrato:228009",
+      "type": "IfcPlate",
+      "parent": "2qdkSOdiP7DeNM6Gyihvxs"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6GyihvwI",
+      "name": "Facciata continua:divisori interni:228038",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6GyihvwJ",
+      "name": "Pannello sistema:Vetrato:228039",
+      "type": "IfcPlate",
+      "parent": "2qdkSOdiP7DeNM6GyihvwI"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6GyihvwT",
+      "name": "Pannello sistema:Vetrato:228041",
+      "type": "IfcPlate",
+      "parent": "2qdkSOdiP7DeNM6GyihvwI"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6GyihvwV",
+      "name": "Pannello sistema:Vetrato:228043",
+      "type": "IfcPlate",
+      "parent": "2qdkSOdiP7DeNM6GyihvwI"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6GyihvwP",
+      "name": "Pannello sistema:Vetrato:228045",
+      "type": "IfcPlate",
+      "parent": "2qdkSOdiP7DeNM6GyihvwI"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6Gyihvwv",
+      "name": "Facciata continua:divisori interni:228077",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6Gyihvww",
+      "name": "Pannello sistema:Vetrato:228078",
+      "type": "IfcPlate",
+      "parent": "2qdkSOdiP7DeNM6Gyihvwv"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6Gyihvwa",
+      "name": "Pannello sistema:Vetrato:228080",
+      "type": "IfcPlate",
+      "parent": "2qdkSOdiP7DeNM6Gyihvwv"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6Gyihvwc",
+      "name": "Pannello sistema:Vetrato:228082",
+      "type": "IfcPlate",
+      "parent": "2qdkSOdiP7DeNM6Gyihvwv"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6GyihvwW",
+      "name": "Pannello sistema:Vetrato:228084",
+      "type": "IfcPlate",
+      "parent": "2qdkSOdiP7DeNM6Gyihvwv"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6GyihvyE",
+      "name": "Muro di base:Generico - 20 cm:228186",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6GyihvWM",
+      "name": "Muro di base:Generico - 32 cm:228418",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6Gyihvfp",
+      "name": "Muro di base:Generico - 20 cm:228903",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6GyihvhN",
+      "name": "Muro di base:Tramezza - 11 cm:228995",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6Gyihvgv",
+      "name": "Muro di base:Tramezza - 11 cm:229101",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2qdkSOdiP7DeNM6GyihvjU",
+      "name": "Muro di base:Generico - 30 cm:229130",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2LSla2d2L22wbtxZ4atIQi",
+      "name": "Facciata continua:Generica - Divisione Verticale 2:229906",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2LSla2d2L22wbtxZ4atIQj",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:229907",
+      "type": "IfcPlate",
+      "parent": "2LSla2d2L22wbtxZ4atIQi"
+    },
+    {
+      "id": "2LSla2d2L22wbtxZ4atIQh",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:229909",
+      "type": "IfcPlate",
+      "parent": "2LSla2d2L22wbtxZ4atIQi"
+    },
+    {
+      "id": "2LSla2d2L22wbtxZ4atIQf",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:229911",
+      "type": "IfcPlate",
+      "parent": "2LSla2d2L22wbtxZ4atIQi"
+    },
+    {
+      "id": "2LSla2d2L22wbtxZ4atIQd",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:229913",
+      "type": "IfcPlate",
+      "parent": "2LSla2d2L22wbtxZ4atIQi"
+    },
+    {
+      "id": "2LSla2d2L22wbtxZ4atIQb",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:229915",
+      "type": "IfcPlate",
+      "parent": "2LSla2d2L22wbtxZ4atIQi"
+    },
+    {
+      "id": "2LSla2d2L22wbtxZ4atIQZ",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:229917",
+      "type": "IfcPlate",
+      "parent": "2LSla2d2L22wbtxZ4atIQi"
+    },
+    {
+      "id": "2LSla2d2L22wbtxZ4atIQX",
+      "name": "foc_CellulaStandard:foc_CellulaStandard:229919",
+      "type": "IfcPlate",
+      "parent": "2LSla2d2L22wbtxZ4atIQi"
+    },
+    {
+      "id": "3JEP85TlTFVPThfm$EO022",
+      "name": "Tavolo 01:Tavolo 01:230420",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3JEP85TlTFVPThfm$EO03_",
+      "name": "Tavolo 02:Tavolo 02:230504",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3JEP85TlTFVPThfm$EO01c",
+      "name": "Tavolo 03:Tavolo 03:230640",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3JEP85TlTFVPThfm$EO06h",
+      "name": "Tavolo 04:Tavolo 04:230717",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkafU",
+      "name": "Tavolo 05:Tavolo 05:230820",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkadx",
+      "name": "Tavolo 06:Tavolo 06:230913",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkacW",
+      "name": "Area di stampa:Area di stampa:231002",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaae",
+      "name": "UT3:UT3:231122",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaZT",
+      "name": "Engineering:Engineering:231207",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaY1",
+      "name": "Ufficio acquisti:Ufficio acquisti:231291",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaWr",
+      "name": "Segreteria:Segreteria:231375",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaVV",
+      "name": "UT1:UT1:231461",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaTD",
+      "name": "Ufficio qualità:Ufficio qualità:231607",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaRr",
+      "name": "Ufficio acquisti direzione:Ufficio acquisti direzione:231695",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPZ",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231833",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPW",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231834",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPX",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231835",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPc",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231836",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPd",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231837",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPa",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231838",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPb",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231839",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPQ",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231840",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPR",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231841",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPO",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231842",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPP",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231843",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPU",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231844",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPV",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231845",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPS",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231846",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPT",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231847",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPI",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231848",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPJ",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231849",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPG",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231850",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPH",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231851",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPM",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231852",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPN",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231853",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPK",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231854",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPL",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231855",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPA",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231856",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPB",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231857",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaP8",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231858",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaP9",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231859",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPE",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231860",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaPF",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:231861",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLkaAy",
+      "name": "FOC_Radiazione _1:FOC_Sensore_01:232774",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLka6t",
+      "name": "FOC_Radiazione _1:FOC_Sensore_01:233037",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2evVst$Tf5eAiZRkrLka6G",
+      "name": "FOC_Radiazione _1:FOC_Sensore_01:233066",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1jVFdzw6vCz8Hwxig91UC0",
+      "name": "FOC_Radiazione _1:FOC_Sensore_01:233109",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1jVFdzw6vCz8Hwxig91UAM",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:233219",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1jVFdzw6vCz8Hwxig91UAH",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:233220",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1oINO4OYfCDfR6QIj33XqL",
+      "name": "FOC_Radiazione _1:FOC_Sensore_01:233302",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1oINO4OYfCDfR6QIj33XsB",
+      "name": "FOC_Radiazione _1:FOC_Sensore_01:233416",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1oINO4OYfCDfR6QIj33W9F",
+      "name": "FOC_Radiazione _1:FOC_Sensore_01:233484",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1oINO4OYfCDfR6QIj33W8K",
+      "name": "FOC_Radiazione _1:FOC_Sensore_01:233559",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1oINO4OYfCDfR6QIj33W6U",
+      "name": "FOC_Luminosità :FOC_Sensore_01:234461",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1oINO4OYfCDfR6QIj33WS6",
+      "name": "FOC_Luminosità :FOC_Sensore_01:234821",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1oINO4OYfCDfR6QIj33WSL",
+      "name": "FOC_Luminosità :FOC_Sensore_01:234838",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2ZRCfvaX101RVlJ6wP$8NN",
+      "name": "FOC_Luminosità :FOC_Sensore_01:234862",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2ZRCfvaX101RVlJ6wP$8Kg",
+      "name": "FOC_Luminosità :FOC_Sensore_01:234899",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2ZRCfvaX101RVlJ6wP$8K4",
+      "name": "FOC_Luminosità :FOC_Sensore_01:234941",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2ZRCfvaX101RVlJ6wP$8LE",
+      "name": "FOC_Luminosità :FOC_Sensore_01:234999",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2ZRCfvaX101RVlJ6wP$8Qt",
+      "name": "FOC_Luminosità :FOC_Sensore_01:235022",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "21QOGuo5zFvgEKbaLoskjZ",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:236230",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "21QOGuo5zFvgEKbaLoskeb",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:236416",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "21QOGuo5zFvgEKbaLoskeG",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:236469",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "21QOGuo5zFvgEKbaLoskeJ",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:236470",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "21QOGuo5zFvgEKbaLoskfy",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:236505",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "21QOGuo5zFvgEKbaLoskf$",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:236506",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "21QOGuo5zFvgEKbaLoskse",
+      "name": "FOC_Sensore_1:FOC_Sensore_01:236557",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0XpSIn3rX6Wxzj$jr3I6hr",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:236590",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0XpSIn3rX6Wxzj$jr3I6g9",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:236626",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0XpSIn3rX6Wxzj$jr3I6gc",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:236669",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0XpSIn3rX6Wxzj$jr3I6fX",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:236730",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0XpSIn3rX6Wxzj$jr3I6eF",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:236756",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0XpSIn3rX6Wxzj$jr3I6e$",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:236772",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0XpSIn3rX6Wxzj$jr3I6l_",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:236837",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0XpSIn3rX6Wxzj$jr3I6lz",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:236838",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3X52NEOCX9sw9tyTHYbpGL",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:236926",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3X52NEOCX9sw9tyTHYbpJ7",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:236972",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3IV8R1TQf3VwBKZLwLrOjA",
+      "name": "FOC_Sensore C02:FOC_Sensore_01:237906",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3IV8R1TQf3VwBKZLwLrOjp",
+      "name": "FOC_Sensore C02:FOC_Sensore_01:237931",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3IV8R1TQf3VwBKZLwLrOjb",
+      "name": "FOC_Sensore C02:FOC_Sensore_01:237949",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3IV8R1TQf3VwBKZLwLrOku",
+      "name": "FOC_Sensore C02:FOC_Sensore_01:237984",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3IV8R1TQf3VwBKZLwLrOW8",
+      "name": "FOC_Sensore C02:FOC_Sensore_01:238096",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3IV8R1TQf3VwBKZLwLrOWf",
+      "name": "FOC_Sensore C02:FOC_Sensore_01:238129",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3IV8R1TQf3VwBKZLwLrOYu",
+      "name": "FOC_Sensore C02:FOC_Sensore_01:238240",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3IV8R1TQf3VwBKZLwLrOYv",
+      "name": "FOC_Sensore C02:FOC_Sensore_01:238241",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3IV8R1TQf3VwBKZLwLrOdw",
+      "name": "FOC_Sensore C02:FOC_Sensore_01:238562",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "3IV8R1TQf3VwBKZLwLrOdx",
+      "name": "FOC_Sensore C02:FOC_Sensore_01:238563",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "14P9ZmY0939wC9U$Ig7cN1",
+      "name": "FOC_Sensore C02:FOC_Sensore_01:238932",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "14P9ZmY0939wC9U$Ig7cZj",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:239736",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "14P9ZmY0939wC9U$Ig7cd7",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:239954",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "14P9ZmY0939wC9U$Ig7ca6",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240019",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "14P9ZmY0939wC9U$Ig7cad",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240050",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "14P9ZmY0939wC9U$Ig7cb3",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240086",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "14P9ZmY0939wC9U$Ig7cbW",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240117",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "14P9ZmY0939wC9U$Ig7cgq",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240161",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "14P9ZmY0939wC9U$Ig7chM",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240195",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "14P9ZmY0939wC9U$Ig7chz",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240232",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "14P9ZmY0939wC9U$Ig7chy",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240233",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "14P9ZmY0939wC9U$Ig7cef",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240316",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "14P9ZmY0939wC9U$Ig7cee",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240317",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1CgWZwm_r1COIjD_oHlM5t",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240395",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1CgWZwm_r1COIjD_oHlM5m",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240396",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1CgWZwm_r1COIjD_oHlM5n",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240397",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1CgWZwm_r1COIjD_oHlM5o",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240398",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1CgWZwm_r1COIjD_oHlM4d",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240475",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1CgWZwm_r1COIjD_oHlM7X",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240541",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1CgWZwm_r1COIjD_oHlM7Y",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240542",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1CgWZwm_r1COIjD_oHlM7Z",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240543",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1CgWZwm_r1COIjD_oHlM77",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240571",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1CgWZwm_r1COIjD_oHlM6e",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240596",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1CgWZwm_r1COIjD_oHlM6D",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240625",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1CgWZwm_r1COIjD_oHlMPC",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240688",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1CgWZwm_r1COIjD_oHlMOw",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240710",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1CgWZwm_r1COIjD_oHlMOC",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240752",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1CgWZwm_r1COIjD_oHlMRr",
+      "name": "FOC_Sensore di presenza :FOC_Sensore_01:240777",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJUj",
+      "name": "Controsoffitto di base:Controsoffitto:252942",
+      "type": "IfcCovering",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0lbEP5Mtn7gOYGuN8pML8k",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:262863",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0CV6isO6jFdRE4cnRiEmTm",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:264689",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0CV6isO6jFdRE4cnRiEmTp",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:264690",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0CV6isO6jFdRE4cnRiEmT$",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:264702",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0CV6isO6jFdRE4cnRiEmT_",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:264703",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0CV6isO6jFdRE4cnRiEmI1",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:264704",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0CV6isO6jFdRE4cnRiEmI0",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:264705",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0CV6isO6jFdRE4cnRiEmIG",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:264721",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0CV6isO6jFdRE4cnRiEmIo",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:264755",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0CV6isO6jFdRE4cnRiEmIr",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:264756",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0CV6isO6jFdRE4cnRiEmJz",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:264828",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0CV6isO6jFdRE4cnRiEmJy",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:264829",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0CV6isO6jFdRE4cnRiEmGb",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:264868",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0CV6isO6jFdRE4cnRiEmGa",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:264869",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0CV6isO6jFdRE4cnRiEmGc",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:264871",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "0CV6isO6jFdRE4cnRiEmGf",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:264872",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "298oqGIpD0EgVwdUnMVREK",
+      "name": "Scala gettata in opera:Scala:266334",
+      "type": "IfcStair",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "298oqGIpD0EgVwdUnMVREL",
+      "name": "Scala gettata in opera:Scala:266334 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "298oqGIpD0EgVwdUnMVREK"
+    },
+    {
+      "id": "298oqGIpD0EgVwdUnMVREh",
+      "name": "Ringhiera:Rettangolare Semplice:266337",
+      "type": "IfcRailing",
+      "parent": "298oqGIpD0EgVwdUnMVREK"
+    },
+    {
+      "id": "298oqGIpD0EgVwdUnMVREl",
+      "name": "Ringhiera:Rettangolare Semplice:266341",
+      "type": "IfcRailing",
+      "parent": "298oqGIpD0EgVwdUnMVREK"
+    },
+    {
+      "id": "1k3S3UMQz2nOoFiK1tw1o3",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:266620",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1k3S3UMQz2nOoFiK1tw1z9",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:266934",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1k3S3UMQz2nOoFiK1tw1z8",
+      "name": "FOC_Temperatura interna :FOC_Sensore_01:266935",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "03q8TiYvT8ORLGTn42fRWQ",
+      "name": "FOC_Fybra:FOC_Sensore_01:300674",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1WYogX4yjEoxpsHOv_lnOa",
+      "name": "FOC_Fybra:FOC_Sensore_01:302244",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1WYogX4yjEoxpsHOv_lnOn",
+      "name": "FOC_Fybra:FOC_Sensore_01:302257",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1WYogX4yjEoxpsHOv_lnPA",
+      "name": "FOC_Fybra:FOC_Sensore_01:302282",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "1WYogX4yjEoxpsHOv_lnUK",
+      "name": "FOC_Fybra:FOC_Sensore_01:302356",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvyn"
+    },
+    {
+      "id": "2rk5Srdd14bez5ueFcmvey",
+      "name": "1 - Piano Primo",
+      "type": "IfcBuildingStorey",
+      "parent": "2rk5Srdd14bez5ueCPF6Db"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLT5",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:244966",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLTB",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:244968",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLT9",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:244970",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLTF",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:244972",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLTD",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:244974",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLTJ",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:244976",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLTH",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:244978",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLTN",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:244980",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLTL",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:244982",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLTR",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:244984",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLTP",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:244986",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLTV",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:244988",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLTT",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:244990",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLQZ",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:244992",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLQX",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:244994",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLQd",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:244996",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLQb",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:244998",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLQh",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:245000",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLQf",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:245002",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLQl",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:245004",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLQj",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:245006",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLQp",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:245008",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLQn",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:245010",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLQt",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:245012",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLQr",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:245014",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLQx",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:245016",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLQv",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:245018",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLQ$",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:245020",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLQz",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:245022",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLQ3",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:245024",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLQ6",
+      "name": "Pavimento:Focchi_Floor_PT:245029",
+      "type": "IfcSlab",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLQR",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:245048",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLRb",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:245062",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLRh",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:245064",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLRG",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:245107",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLRL",
+      "name": "Pilastro in calcestruzzo - Rettangolare:30x30 cm:245110",
+      "type": "IfcColumn",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLMN",
+      "name": "Facciata continua:Generica - Divisione Verticale:245300",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLMK",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245303",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLMN"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLMQ",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245305",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLMN"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLMO",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245307",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLMN"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLMU",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245309",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLMN"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLMS",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245311",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLMN"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLNY",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245313",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLMN"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLNW",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245315",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLMN"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLNc",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245317",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLMN"
+    },
+    {
+      "id": "35OsXRZJr9duPAR50RTIcJ",
+      "name": "Pannello sistema:Vetrato:266188",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLMN"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLMM",
+      "name": "Facciata continua:Generica - Divisione Verticale:245301",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLKF",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245420",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLMM"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLKD",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245422",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLMM"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLKJ",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245424",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLMM"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLKH",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245426",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLMM"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLKN",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245428",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLMM"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLL_",
+      "name": "Facciata continua:Generica - Divisione Verticale:245469",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLLz",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245470",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLL_"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLL3",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245472",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLL_"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLL1",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245474",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLL_"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLL7",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245476",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLL_"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLL5",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245478",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLL_"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLLB",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245480",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLL_"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLL9",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245482",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLL_"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLLF",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245484",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLL_"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLLD",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245486",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLL_"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLLJ",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245488",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLL_"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLLH",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245490",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLL_"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLLN",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245492",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLL_"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLLL",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245494",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLL_"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLLR",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245496",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLL_"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLIX",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245506",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLL_"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLLP",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245498",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLL_"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLLV",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245500",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLL_"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLLT",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245502",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLL_"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLIZ",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245504",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLL_"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLIx",
+      "name": "Pannello sistema:Vetrato:245528",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLL_"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLIa",
+      "name": "Facciata continua:Generica - Divisione Verticale 2:245511",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLIh",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245512",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLIa"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLIf",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245514",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLIa"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLIl",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245516",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLIa"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLIj",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245518",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLIa"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLIp",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245520",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLIa"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLIn",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245522",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLIa"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnLIt",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:245524",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnLIa"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJ7G",
+      "name": "Muro di base:Tramezza - 24 cm:252531",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJKw",
+      "name": "Facciata continua:Generica - Divisione Verticale 2:253593",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJK$",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253596",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKw"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJKz",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253598",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKw"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJK3",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253600",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKw"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJK1",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253602",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKw"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJK7",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253604",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKw"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJK5",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253606",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKw"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJKB",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253608",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKw"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJKv",
+      "name": "Facciata continua:Generica - Divisione Verticale:253594",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJKP",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253626",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKv"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJKV",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253628",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKv"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJKT",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253630",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKv"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJLZ",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253632",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKv"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJLX",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253634",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKv"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJLd",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253636",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKv"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJLb",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253638",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKv"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJLh",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253640",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKv"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJLf",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253642",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKv"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJLl",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253644",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKv"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJLj",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253646",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKv"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJLp",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253648",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKv"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJKu",
+      "name": "Facciata continua:Generica - Divisione Verticale:253595",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJKA",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253609",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKu"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJK8",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253611",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKu"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJKE",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253613",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKu"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJKC",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253615",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKu"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJKI",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253617",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKu"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJKG",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253619",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKu"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJKM",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253621",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKu"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJKK",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253623",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKu"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJKQ",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253625",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJKu"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJIp",
+      "name": "Facciata continua:Generica - Divisione Verticale:253712",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJIo",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253713",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJIm",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253715",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJIs",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253717",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJIq",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253719",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJIw",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253721",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJIu",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253723",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJI_",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253725",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJIy",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253727",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJI2",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253729",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJI0",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253731",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJI6",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253733",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJI4",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253735",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJIA",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253737",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJI8",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253739",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJIE",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253741",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJIC",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253743",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJII",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253745",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJIG",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253747",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJIM",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253749",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJIK",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253751",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJIQ",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253753",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJIO",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253755",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJIU",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253757",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJIS",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253759",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJY",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253761",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJW",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253763",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJc",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253765",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJa",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253767",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJg",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253769",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJe",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253771",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJk",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253773",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJi",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253775",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJo",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253777",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJm",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253779",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJs",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253781",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJq",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253783",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJw",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253785",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJu",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253787",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJ_",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253789",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJy",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253791",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJ2",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253793",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJ0",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253795",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJ6",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253797",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJA",
+      "name": "Pannello sistema:Vetrato:253801",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJ4",
+      "name": "FOC_Modulo facciata 1:FOC_Modulo facciata 1:253799",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "2aRM7x2c1En90ePUEMnJJ8",
+      "name": "Pannello sistema:Vetrato:253803",
+      "type": "IfcPlate",
+      "parent": "2aRM7x2c1En90ePUEMnJIp"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkC5",
+      "name": "Facciata continua:divisori interni:254474",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkC4",
+      "name": "Pannello sistema:Vetrato:254475",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkC5"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkC0",
+      "name": "Pannello sistema:Vetrato:254479",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkC5"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkCU",
+      "name": "Pannello sistema:Vetrato:254481",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkC5"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkCS",
+      "name": "Pannello sistema:Vetrato:254483",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkC5"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkCQ",
+      "name": "Pannello sistema:Vetrato:254485",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkC5"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMk9k",
+      "name": "Facciata continua:divisori interni:254817",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMk9j",
+      "name": "Pannello sistema:Vetrato:254818",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMk9k"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMk9e",
+      "name": "Pannello sistema:Vetrato:254823",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMk9k"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMk9c",
+      "name": "Pannello sistema:Vetrato:254825",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMk9k"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMk9a",
+      "name": "Pannello sistema:Vetrato:254827",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMk9k"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMk9Y",
+      "name": "Pannello sistema:Vetrato:254829",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMk9k"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMk9W",
+      "name": "Pannello sistema:Vetrato:254831",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMk9k"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMk9_",
+      "name": "Pannello sistema:Vetrato:254833",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMk9k"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMk9y",
+      "name": "Pannello sistema:Vetrato:254835",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMk9k"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMk9w",
+      "name": "Pannello sistema:Vetrato:254837",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMk9k"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMk9u",
+      "name": "Pannello sistema:Vetrato:254839",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMk9k"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMk9s",
+      "name": "Pannello sistema:Vetrato:254841",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMk9k"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMk9q",
+      "name": "Pannello sistema:Vetrato:254843",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMk9k"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkGt",
+      "name": "Facciata continua:divisori interni:255288",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkGs",
+      "name": "Pannello sistema:Vetrato:255289",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkGt"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkGn",
+      "name": "Pannello sistema:Vetrato:255294",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkGt"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkHF",
+      "name": "Pannello sistema:Vetrato:255296",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkGt"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkHD",
+      "name": "Pannello sistema:Vetrato:255298",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkGt"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkHB",
+      "name": "Pannello sistema:Vetrato:255300",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkGt"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkH9",
+      "name": "Pannello sistema:Vetrato:255302",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkGt"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkH7",
+      "name": "Pannello sistema:Vetrato:255304",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkGt"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkH5",
+      "name": "Pannello sistema:Vetrato:255306",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkGt"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkSM",
+      "name": "Facciata continua:divisori interni:255513",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkSL",
+      "name": "Pannello sistema:Vetrato:255514",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkSJ",
+      "name": "Pannello sistema:Vetrato:255516",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkSH",
+      "name": "Pannello sistema:Vetrato:255518",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkSl",
+      "name": "Pannello sistema:Vetrato:255520",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkSj",
+      "name": "Pannello sistema:Vetrato:255522",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkSh",
+      "name": "Pannello sistema:Vetrato:255524",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkSf",
+      "name": "Pannello sistema:Vetrato:255526",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkSd",
+      "name": "Pannello sistema:Vetrato:255528",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkSb",
+      "name": "Pannello sistema:Vetrato:255530",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkSZ",
+      "name": "Pannello sistema:Vetrato:255532",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkSX",
+      "name": "Pannello sistema:Vetrato:255534",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkS$",
+      "name": "Pannello sistema:Vetrato:255536",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkSz",
+      "name": "Pannello sistema:Vetrato:255538",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkSx",
+      "name": "Pannello sistema:Vetrato:255540",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkSv",
+      "name": "Pannello sistema:Vetrato:255542",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkSt",
+      "name": "Pannello sistema:Vetrato:255544",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkSr",
+      "name": "Pannello sistema:Vetrato:255546",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkSp",
+      "name": "Pannello sistema:Vetrato:255548",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkSn",
+      "name": "Pannello sistema:Vetrato:255550",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkTF",
+      "name": "Pannello sistema:Vetrato:255552",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkTD",
+      "name": "Pannello sistema:Vetrato:255554",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkTB",
+      "name": "Pannello sistema:Vetrato:255556",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkT9",
+      "name": "Pannello sistema:Vetrato:255558",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkT7",
+      "name": "Pannello sistema:Vetrato:255560",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkT5",
+      "name": "Pannello sistema:Vetrato:255562",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkT3",
+      "name": "Pannello sistema:Vetrato:255564",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkT1",
+      "name": "Pannello sistema:Vetrato:255566",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "3Cp8aS3Iv4Z88StMdtMkTV",
+      "name": "Pannello sistema:Vetrato:255568",
+      "type": "IfcPlate",
+      "parent": "3Cp8aS3Iv4Z88StMdtMkSM"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOq8",
+      "name": "Muro di base:Tramezza - 15 cm:256572",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOq9",
+      "name": "Muro di base:Tramezza - 15 cm:256573",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOqA",
+      "name": "Muro di base:Tramezza - 15 cm:256574",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOqB",
+      "name": "Muro di base:Tramezza - 15 cm:256575",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOrq",
+      "name": "Muro di base:Tramezza - 15 cm:256576",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOrs",
+      "name": "Muro di base:Tramezza - 0.40:256578",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOrt",
+      "name": "Muro di base:Tramezza - 0.40:256579",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOrm",
+      "name": "Muro di base:Tramezza - 24 cm:256580",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOrn",
+      "name": "Muro di base:Tramezza - 24 cm:256581",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOro",
+      "name": "Muro di base:Tramezza - 24 cm:256582",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOrp",
+      "name": "Muro di base:Tramezza - 24 cm:256583",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOry",
+      "name": "Muro di base:Tramezza - 24 cm:256584",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOrz",
+      "name": "Muro di base:Tramezza - 11 cm:256585",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOr_",
+      "name": "Muro di base:Tramezza - 15 cm:256586",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOr$",
+      "name": "Muro di base:Tramezza - 15 cm:256587",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOru",
+      "name": "Porta - 1 Anta:80x210 cm:256588",
+      "type": "IfcDoor",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOrv",
+      "name": "Porta - 1 Anta:80x210 cm:256589",
+      "type": "IfcDoor",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOrw",
+      "name": "Porta - 1 Anta:80x210 cm:256590",
+      "type": "IfcDoor",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOrx",
+      "name": "Porta - 1 Anta:90x210 cm:256591",
+      "type": "IfcDoor",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOrb",
+      "name": "Porta - 1 Anta:80x210 cm:256593",
+      "type": "IfcDoor",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOrc",
+      "name": "Porta - 1 Anta:90x210 cm:256594",
+      "type": "IfcDoor",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOWH",
+      "name": "Facciata continua:divisori interni:257829",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOWI",
+      "name": "Pannello sistema:Vetrato:257830",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpOWH"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOWV",
+      "name": "Pannello sistema:Vetrato:257835",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpOWH"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOWP",
+      "name": "Pannello sistema:Vetrato:257837",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpOWH"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOWR",
+      "name": "Pannello sistema:Vetrato:257839",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpOWH"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOW5",
+      "name": "Pannello sistema:Vetrato:257841",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpOWH"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOW7",
+      "name": "Pannello sistema:Vetrato:257843",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpOWH"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOW1",
+      "name": "Pannello sistema:Vetrato:257845",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpOWH"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpOW3",
+      "name": "Pannello sistema:Vetrato:257847",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpOWH"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPTz",
+      "name": "Facciata continua:divisori interni:258121",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPT_",
+      "name": "Pannello sistema:Vetrato:258122",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPTz"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPTu",
+      "name": "Pannello sistema:Vetrato:258124",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPTz"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPTw",
+      "name": "Pannello sistema:Vetrato:258126",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPTz"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPTa",
+      "name": "Pannello sistema:Vetrato:258128",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPTz"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPTc",
+      "name": "Pannello sistema:Vetrato:258130",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPTz"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPTW",
+      "name": "Pannello sistema:Vetrato:258132",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPTz"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPTY",
+      "name": "Pannello sistema:Vetrato:258134",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPTz"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPTi",
+      "name": "Pannello sistema:Vetrato:258136",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPTz"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPTk",
+      "name": "Pannello sistema:Vetrato:258138",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPTz"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPTe",
+      "name": "Pannello sistema:Vetrato:258140",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPTz"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPTg",
+      "name": "Pannello sistema:Vetrato:258142",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPTz"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPTK",
+      "name": "Pannello sistema:Vetrato:258144",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPTz"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPUT",
+      "name": "Facciata continua:divisori interni:258217",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPUU",
+      "name": "Pannello sistema:Vetrato:258218",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPUT"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPUO",
+      "name": "Pannello sistema:Vetrato:258220",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPUT"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPUQ",
+      "name": "Pannello sistema:Vetrato:258222",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPUT"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPU4",
+      "name": "Pannello sistema:Vetrato:258224",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPUT"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPU6",
+      "name": "Pannello sistema:Vetrato:258226",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPUT"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPU0",
+      "name": "Pannello sistema:Vetrato:258228",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPUT"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPRc",
+      "name": "Facciata continua:divisori interni:258514",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPRd",
+      "name": "Pannello sistema:Vetrato:258515",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPRc"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPRj",
+      "name": "Pannello sistema:Vetrato:258521",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPRc"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPRl",
+      "name": "Pannello sistema:Vetrato:258523",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPRc"
+    },
+    {
+      "id": "1AvnpD$q14EgKfxYqUpPRf",
+      "name": "Pannello sistema:Vetrato:258525",
+      "type": "IfcPlate",
+      "parent": "1AvnpD$q14EgKfxYqUpPRc"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZ8r",
+      "name": "Facciata continua:divisori interni:258846",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZ8q",
+      "name": "Pannello sistema:Vetrato:258847",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZ8r"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZ8E",
+      "name": "Pannello sistema:Vetrato:258853",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZ8r"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZ8C",
+      "name": "Pannello sistema:Vetrato:258855",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZ8r"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZ82",
+      "name": "Pannello sistema:Vetrato:258857",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZ8r"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZLY",
+      "name": "Facciata continua:divisori interni:259145",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZLX",
+      "name": "Pannello sistema:Vetrato:259146",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZLY"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZLd",
+      "name": "Pannello sistema:Vetrato:259148",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZLY"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZLb",
+      "name": "Pannello sistema:Vetrato:259150",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZLY"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZLx",
+      "name": "Pannello sistema:Vetrato:259152",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZLY"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZNW",
+      "name": "Facciata continua:divisori interni:259275",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZNd",
+      "name": "Pannello sistema:Vetrato:259276",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZNW"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZNb",
+      "name": "Pannello sistema:Vetrato:259278",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZNW"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZNx",
+      "name": "Pannello sistema:Vetrato:259280",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZNW"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZNv",
+      "name": "Pannello sistema:Vetrato:259282",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZNW"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZGO",
+      "name": "Facciata continua:divisori interni:259379",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZGV",
+      "name": "Pannello sistema:Vetrato:259380",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZGO"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZGT",
+      "name": "Pannello sistema:Vetrato:259382",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZGO"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZGJ",
+      "name": "Pannello sistema:Vetrato:259384",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZGO"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZGH",
+      "name": "Pannello sistema:Vetrato:259386",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZGO"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZIi",
+      "name": "Facciata continua:divisori interni:259463",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZIZ",
+      "name": "Pannello sistema:Vetrato:259464",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZIi"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZIX",
+      "name": "Pannello sistema:Vetrato:259466",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZIi"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZId",
+      "name": "Pannello sistema:Vetrato:259468",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZIi"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZIb",
+      "name": "Pannello sistema:Vetrato:259470",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZIi"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZIH",
+      "name": "Facciata continua:divisori interni:259514",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZIG",
+      "name": "Pannello sistema:Vetrato:259515",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZIH"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZIM",
+      "name": "Pannello sistema:Vetrato:259517",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZIH"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZIK",
+      "name": "Pannello sistema:Vetrato:259519",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZIH"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZJg",
+      "name": "Pannello sistema:Vetrato:259521",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZIH"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZJs",
+      "name": "Facciata continua:divisori interni:259549",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZJr",
+      "name": "Pannello sistema:Vetrato:259550",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZJs"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZJB",
+      "name": "Pannello sistema:Vetrato:259552",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZJs"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZJ9",
+      "name": "Pannello sistema:Vetrato:259554",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZJs"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZJF",
+      "name": "Pannello sistema:Vetrato:259556",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZJs"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZSv",
+      "name": "Facciata continua:divisori interni:259602",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZSu",
+      "name": "Pannello sistema:Vetrato:259603",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZSv"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZS_",
+      "name": "Pannello sistema:Vetrato:259605",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZSv"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZSy",
+      "name": "Pannello sistema:Vetrato:259607",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZSv"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZSo",
+      "name": "Pannello sistema:Vetrato:259609",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZSv"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZTY",
+      "name": "Facciata continua:divisori interni:259657",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZTX",
+      "name": "Pannello sistema:Vetrato:259658",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZTY"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZTd",
+      "name": "Pannello sistema:Vetrato:259660",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZTY"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZTb",
+      "name": "Pannello sistema:Vetrato:259662",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZTY"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZTx",
+      "name": "Pannello sistema:Vetrato:259664",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZTY"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZQw",
+      "name": "Facciata continua:divisori interni:259985",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZQv",
+      "name": "Pannello sistema:Vetrato:259986",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZQw"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZQp",
+      "name": "Pannello sistema:Vetrato:259992",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZQw"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZQn",
+      "name": "Pannello sistema:Vetrato:259994",
+      "type": "IfcPlate",
+      "parent": "19zR5Wf6zBuggiVfkAeZQw"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZWh",
+      "name": "Muro di base:Tramezza - 11 cm:260352",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZYV",
+      "name": "Porta - 1 Anta:80x210 cm:260532",
+      "type": "IfcDoor",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "19zR5Wf6zBuggiVfkAeZZr",
+      "name": "Porta - 1 Anta:80x210 cm:260574",
+      "type": "IfcDoor",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1tb_oFXCnEehavf0gii$Z3",
+      "name": "Facciata continua:divisori interni:260804",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1tb_oFXCnEehavf0gii$Z2",
+      "name": "Pannello sistema:Vetrato:260805",
+      "type": "IfcPlate",
+      "parent": "1tb_oFXCnEehavf0gii$Z3"
+    },
+    {
+      "id": "1tb_oFXCnEehavf0gii$Z0",
+      "name": "Pannello sistema:Vetrato:260807",
+      "type": "IfcPlate",
+      "parent": "1tb_oFXCnEehavf0gii$Z3"
+    },
+    {
+      "id": "1tb_oFXCnEehavf0gii$ZE",
+      "name": "Pannello sistema:Vetrato:260809",
+      "type": "IfcPlate",
+      "parent": "1tb_oFXCnEehavf0gii$Z3"
+    },
+    {
+      "id": "1tb_oFXCnEehavf0gii$ZC",
+      "name": "Pannello sistema:Vetrato:260811",
+      "type": "IfcPlate",
+      "parent": "1tb_oFXCnEehavf0gii$Z3"
+    },
+    {
+      "id": "1tb_oFXCnEehavf0gii$ZA",
+      "name": "Pannello sistema:Vetrato:260813",
+      "type": "IfcPlate",
+      "parent": "1tb_oFXCnEehavf0gii$Z3"
+    },
+    {
+      "id": "1tb_oFXCnEehavf0gii$dB",
+      "name": "Facciata continua:divisori interni:261068",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1tb_oFXCnEehavf0gii$dA",
+      "name": "Pannello sistema:Vetrato:261069",
+      "type": "IfcPlate",
+      "parent": "1tb_oFXCnEehavf0gii$dB"
+    },
+    {
+      "id": "1tb_oFXCnEehavf0gii$dM",
+      "name": "Pannello sistema:Vetrato:261073",
+      "type": "IfcPlate",
+      "parent": "1tb_oFXCnEehavf0gii$dB"
+    },
+    {
+      "id": "1tb_oFXCnEehavf0gii$dK",
+      "name": "Pannello sistema:Vetrato:261075",
+      "type": "IfcPlate",
+      "parent": "1tb_oFXCnEehavf0gii$dB"
+    },
+    {
+      "id": "1tb_oFXCnEehavf0gii$dI",
+      "name": "Pannello sistema:Vetrato:261077",
+      "type": "IfcPlate",
+      "parent": "1tb_oFXCnEehavf0gii$dB"
+    },
+    {
+      "id": "1tb_oFXCnEehavf0gii$uw",
+      "name": "Facciata continua:divisori interni:261181",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1tb_oFXCnEehavf0gii$uv",
+      "name": "Pannello sistema:Vetrato:261182",
+      "type": "IfcPlate",
+      "parent": "1tb_oFXCnEehavf0gii$uw"
+    },
+    {
+      "id": "1tb_oFXCnEehavf0gii$v4",
+      "name": "Pannello sistema:Vetrato:261187",
+      "type": "IfcPlate",
+      "parent": "1tb_oFXCnEehavf0gii$uw"
+    },
+    {
+      "id": "1tb_oFXCnEehavf0gii$m1",
+      "name": "Muro di base:Tramezza - 0.40:261638",
+      "type": "IfcWallStandardCase",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "0LnW5nzXD18e5m3gxzqC3X",
+      "name": "Sala Panorami:Sala Panorami:264962",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "0LnW5nzXD18e5m3gxzqC0h",
+      "name": "Facciata continua:divisori interni:265160",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "0LnW5nzXD18e5m3gxzqC0g",
+      "name": "Pannello sistema:Vetrato:265161",
+      "type": "IfcPlate",
+      "parent": "0LnW5nzXD18e5m3gxzqC0h"
+    },
+    {
+      "id": "0LnW5nzXD18e5m3gxzqC0e",
+      "name": "Pannello sistema:Vetrato:265163",
+      "type": "IfcPlate",
+      "parent": "0LnW5nzXD18e5m3gxzqC0h"
+    },
+    {
+      "id": "0LnW5nzXD18e5m3gxzqC0k",
+      "name": "Pannello sistema:Vetrato:265165",
+      "type": "IfcPlate",
+      "parent": "0LnW5nzXD18e5m3gxzqC0h"
+    },
+    {
+      "id": "0LnW5nzXD18e5m3gxzqC0i",
+      "name": "Pannello sistema:Vetrato:265167",
+      "type": "IfcPlate",
+      "parent": "0LnW5nzXD18e5m3gxzqC0h"
+    },
+    {
+      "id": "0LnW5nzXD18e5m3gxzqCVj",
+      "name": "Facciata continua:divisori interni:265230",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "0LnW5nzXD18e5m3gxzqCVi",
+      "name": "Pannello sistema:Vetrato:265231",
+      "type": "IfcPlate",
+      "parent": "0LnW5nzXD18e5m3gxzqCVj"
+    },
+    {
+      "id": "0LnW5nzXD18e5m3gxzqCVo",
+      "name": "Pannello sistema:Vetrato:265233",
+      "type": "IfcPlate",
+      "parent": "0LnW5nzXD18e5m3gxzqCVj"
+    },
+    {
+      "id": "0LnW5nzXD18e5m3gxzqCVm",
+      "name": "Pannello sistema:Vetrato:265235",
+      "type": "IfcPlate",
+      "parent": "0LnW5nzXD18e5m3gxzqCVj"
+    },
+    {
+      "id": "0LnW5nzXD18e5m3gxzqCVs",
+      "name": "Pannello sistema:Vetrato:265237",
+      "type": "IfcPlate",
+      "parent": "0LnW5nzXD18e5m3gxzqCVj"
+    },
+    {
+      "id": "0LnW5nzXD18e5m3gxzqCUd",
+      "name": "Facciata continua:divisori interni:265284",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "0LnW5nzXD18e5m3gxzqCUc",
+      "name": "Pannello sistema:Vetrato:265285",
+      "type": "IfcPlate",
+      "parent": "0LnW5nzXD18e5m3gxzqCUd"
+    },
+    {
+      "id": "0LnW5nzXD18e5m3gxzqCUa",
+      "name": "Pannello sistema:Vetrato:265287",
+      "type": "IfcPlate",
+      "parent": "0LnW5nzXD18e5m3gxzqCUd"
+    },
+    {
+      "id": "0LnW5nzXD18e5m3gxzqCUg",
+      "name": "Pannello sistema:Vetrato:265289",
+      "type": "IfcPlate",
+      "parent": "0LnW5nzXD18e5m3gxzqCUd"
+    },
+    {
+      "id": "0LnW5nzXD18e5m3gxzqCUe",
+      "name": "Pannello sistema:Vetrato:265291",
+      "type": "IfcPlate",
+      "parent": "0LnW5nzXD18e5m3gxzqCUd"
+    },
+    {
+      "id": "0LnW5nzXD18e5m3gxzqCTj",
+      "name": "Facciata continua:divisori interni:265358",
+      "type": "IfcCurtainWall",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "0LnW5nzXD18e5m3gxzqCTi",
+      "name": "Pannello sistema:Vetrato:265359",
+      "type": "IfcPlate",
+      "parent": "0LnW5nzXD18e5m3gxzqCTj"
+    },
+    {
+      "id": "2mTtoyLT96HASCsJo6XLVF",
+      "name": "Controsoffitto di base:Controsoffitto:269089",
+      "type": "IfcCovering",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2mTtoyLT96HASCsJo6XLEX",
+      "name": "FOC_SM_testerna :FOC_Sensore_01:270159",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2mTtoyLT96HASCsJo6XMuU",
+      "name": "FOC_SM_Velocitàvento:FOC_Sensore_01:271088",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2mTtoyLT96HASCsJo6XMLS",
+      "name": "FOC_SM_Radiazionesolare:FOC_Sensore_01:272818",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2mTtoyLT96HASCsJo6XM6Z",
+      "name": "FOC_SM_HU:FOC_Sensore_01:273741",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2mTtoyLT96HASCsJo6XNm$",
+      "name": "FOC_SM_Direzione vento :FOC_Sensore_01:274641",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "2mTtoyLT96HASCsJo6XNkn",
+      "name": "FOC_SM_Velocità pioggia1:FOC_Sensore_01:276319",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "03q8TiYvT8ORLGTn42fLmT",
+      "name": "FOC_BT_pioggia  :FOC_Sensore_01:291461",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "03q8TiYvT8ORLGTn42fLMO",
+      "name": "FOC_BT_pressione :FOC_Sensore_01:293632",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "03q8TiYvT8ORLGTn42fL1Z",
+      "name": "FOC_BT_microfono :FOC_Sensore_01:294651",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "03q8TiYvT8ORLGTn42fR$v",
+      "name": "FOC_BT_Radiazione _1:FOC_Sensore_01:299361",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1WYogX4yjEoxpsHOv_lnUn",
+      "name": "FOC_Fybra:FOC_Sensore_01:302385",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1WYogX4yjEoxpsHOv_lnKN",
+      "name": "FOC_Fybra:FOC_Sensore_01:302999",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1WYogX4yjEoxpsHOv_lnK_",
+      "name": "FOC_Fybra:FOC_Sensore_01:303038",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1WYogX4yjEoxpsHOv_logT",
+      "name": "FOC_Fybra:FOC_Sensore_01:303133",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1WYogX4yjEoxpsHOv_loei",
+      "name": "FOC_Fybra:FOC_Sensore_01:303276",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "30hw6jkz15IfpJ6o5PBgqu",
+      "name": "FOC_BT_testerna :FOC_Sensore_01:304137",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "30hw6jkz15IfpJ6o5PBg4l",
+      "name": "FOC_BTLuminosità :FOC_Sensore_01:305182",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "30hw6jkz15IfpJ6o5PBgBj",
+      "name": "FOC_BT_HU:FOC_Sensore_01:306140",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "30hw6jkz15IfpJ6o5PBgQ9",
+      "name": "FOC_BTSensore_1:FOC_Sensore_01:307128",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "30hw6jkz15IfpJ6o5PBhZG",
+      "name": "FOC_BT_pressione :FOC_Sensore_01:307681",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "30hw6jkz15IfpJ6o5PBhZJ",
+      "name": "FOC_BT_microfono :FOC_Sensore_01:307682",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "30hw6jkz15IfpJ6o5PBhZL",
+      "name": "FOC_BT_testerna :FOC_Sensore_01:307684",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "30hw6jkz15IfpJ6o5PBhZK",
+      "name": "FOC_BTLuminosità :FOC_Sensore_01:307685",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "30hw6jkz15IfpJ6o5PBhZN",
+      "name": "FOC_BT_HU:FOC_Sensore_01:307686",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "30hw6jkz15IfpJ6o5PBhZM",
+      "name": "FOC_BTSensore_1:FOC_Sensore_01:307687",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "30hw6jkz15IfpJ6o5PBhno",
+      "name": "FOC_BT_IRRAGGIAMENTO  :FOC_Sensore_01:308547",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "30hw6jkz15IfpJ6o5PBh01",
+      "name": "FOC_BT_Elevazione solare  _1:FOC_Sensore_01:309552",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "30hw6jkz15IfpJ6o5PBhG5",
+      "name": "FOC_BTSensore VOC:FOC_Sensore_01:310580",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1jhXOWhfv0EAt1pyKIHNJS",
+      "name": "Sala Visia:Sala Visia:315355",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1jhXOWhfv0EAt1pyKIHMkb",
+      "name": "Ufficio PM:Ufficio PM:315554",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "1jhXOWhfv0EAt1pyKIHMC5",
+      "name": "Ufficio tender:Ufficio tender:317442",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    },
+    {
+      "id": "0Wf3PznsP44Ppm8BGRp6DY",
+      "name": "Ufficio amministrazione:Ufficio amministrazione:317741",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2rk5Srdd14bez5ueFcmvey"
+    }
+  ]
+}
