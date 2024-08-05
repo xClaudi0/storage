@@ -1,0 +1,34 @@
+{
+    "id": "focchiPlan",
+    "name": "FocchiPlan",
+    "models": [
+        {
+            "id": "design",
+            "name": "Focchi",
+            "backfaces": false
+        }
+    ],
+    "viewerConfigs": {
+        "backgroundColor": [
+            0.9,
+            0.9,
+            0.9
+        ],
+        "saoNumSamples": 60,
+        "saoKernelRadius": 200,
+        "objectColorSource": "model"
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "design"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "objects",
+        "expandObjectsTree": 3,
+        "expandClassesTree": 1,
+        "expandStoreysTree": 0,
+        "saoEnabled": "false",
+        "objectColorSource": "viewer"
+    }
+}
